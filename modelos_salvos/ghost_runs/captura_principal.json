@@ -1,0 +1,7847 @@
+{
+  "tentativa": 6,
+  "concluiu": true,
+  "steps": 980,
+  "trajetoria": [
+    {
+      "step": 0,
+      "action": 2,
+      "x_pos": 40,
+      "x_pos_screen": 40,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 1,
+      "action": 2,
+      "x_pos": 42,
+      "x_pos_screen": 42,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 2,
+      "action": 2,
+      "x_pos": 44,
+      "x_pos_screen": 44,
+      "y_pos": 122,
+      "flag_get": false
+    },
+    {
+      "step": 3,
+      "action": 2,
+      "x_pos": 48,
+      "x_pos_screen": 48,
+      "y_pos": 132,
+      "flag_get": false
+    },
+    {
+      "step": 4,
+      "action": 2,
+      "x_pos": 53,
+      "x_pos_screen": 53,
+      "y_pos": 139,
+      "flag_get": false
+    },
+    {
+      "step": 5,
+      "action": 2,
+      "x_pos": 58,
+      "x_pos_screen": 58,
+      "y_pos": 142,
+      "flag_get": false
+    },
+    {
+      "step": 6,
+      "action": 2,
+      "x_pos": 65,
+      "x_pos_screen": 65,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 7,
+      "action": 2,
+      "x_pos": 72,
+      "x_pos_screen": 72,
+      "y_pos": 136,
+      "flag_get": false
+    },
+    {
+      "step": 8,
+      "action": 2,
+      "x_pos": 79,
+      "x_pos_screen": 79,
+      "y_pos": 119,
+      "flag_get": false
+    },
+    {
+      "step": 9,
+      "action": 2,
+      "x_pos": 86,
+      "x_pos_screen": 83,
+      "y_pos": 99,
+      "flag_get": false
+    },
+    {
+      "step": 10,
+      "action": 2,
+      "x_pos": 93,
+      "x_pos_screen": 86,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 11,
+      "action": 0,
+      "x_pos": 99,
+      "x_pos_screen": 88,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 12,
+      "action": 0,
+      "x_pos": 105,
+      "x_pos_screen": 90,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 13,
+      "action": 2,
+      "x_pos": 110,
+      "x_pos_screen": 91,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 14,
+      "action": 2,
+      "x_pos": 117,
+      "x_pos_screen": 94,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 15,
+      "action": 2,
+      "x_pos": 124,
+      "x_pos_screen": 97,
+      "y_pos": 123,
+      "flag_get": false
+    },
+    {
+      "step": 16,
+      "action": 2,
+      "x_pos": 131,
+      "x_pos_screen": 100,
+      "y_pos": 133,
+      "flag_get": false
+    },
+    {
+      "step": 17,
+      "action": 2,
+      "x_pos": 138,
+      "x_pos_screen": 103,
+      "y_pos": 141,
+      "flag_get": false
+    },
+    {
+      "step": 18,
+      "action": 2,
+      "x_pos": 145,
+      "x_pos_screen": 106,
+      "y_pos": 145,
+      "flag_get": false
+    },
+    {
+      "step": 19,
+      "action": 2,
+      "x_pos": 152,
+      "x_pos_screen": 109,
+      "y_pos": 147,
+      "flag_get": false
+    },
+    {
+      "step": 20,
+      "action": 2,
+      "x_pos": 159,
+      "x_pos_screen": 112,
+      "y_pos": 145,
+      "flag_get": false
+    },
+    {
+      "step": 21,
+      "action": 2,
+      "x_pos": 166,
+      "x_pos_screen": 112,
+      "y_pos": 135,
+      "flag_get": false
+    },
+    {
+      "step": 22,
+      "action": 2,
+      "x_pos": 173,
+      "x_pos_screen": 112,
+      "y_pos": 116,
+      "flag_get": false
+    },
+    {
+      "step": 23,
+      "action": 1,
+      "x_pos": 180,
+      "x_pos_screen": 112,
+      "y_pos": 96,
+      "flag_get": false
+    },
+    {
+      "step": 24,
+      "action": 1,
+      "x_pos": 187,
+      "x_pos_screen": 112,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 25,
+      "action": 1,
+      "x_pos": 194,
+      "x_pos_screen": 112,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 26,
+      "action": 2,
+      "x_pos": 201,
+      "x_pos_screen": 112,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 27,
+      "action": 2,
+      "x_pos": 208,
+      "x_pos_screen": 112,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 28,
+      "action": 2,
+      "x_pos": 215,
+      "x_pos_screen": 112,
+      "y_pos": 123,
+      "flag_get": false
+    },
+    {
+      "step": 29,
+      "action": 2,
+      "x_pos": 222,
+      "x_pos_screen": 112,
+      "y_pos": 133,
+      "flag_get": false
+    },
+    {
+      "step": 30,
+      "action": 2,
+      "x_pos": 229,
+      "x_pos_screen": 112,
+      "y_pos": 141,
+      "flag_get": false
+    },
+    {
+      "step": 31,
+      "action": 2,
+      "x_pos": 236,
+      "x_pos_screen": 112,
+      "y_pos": 145,
+      "flag_get": false
+    },
+    {
+      "step": 32,
+      "action": 2,
+      "x_pos": 243,
+      "x_pos_screen": 112,
+      "y_pos": 147,
+      "flag_get": false
+    },
+    {
+      "step": 33,
+      "action": 1,
+      "x_pos": 250,
+      "x_pos_screen": 112,
+      "y_pos": 145,
+      "flag_get": false
+    },
+    {
+      "step": 34,
+      "action": 1,
+      "x_pos": 257,
+      "x_pos_screen": 112,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 35,
+      "action": 1,
+      "x_pos": 264,
+      "x_pos_screen": 112,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 36,
+      "action": 1,
+      "x_pos": 271,
+      "x_pos_screen": 112,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 37,
+      "action": 1,
+      "x_pos": 278,
+      "x_pos_screen": 112,
+      "y_pos": 138,
+      "flag_get": false
+    },
+    {
+      "step": 38,
+      "action": 1,
+      "x_pos": 285,
+      "x_pos_screen": 112,
+      "y_pos": 123,
+      "flag_get": false
+    },
+    {
+      "step": 39,
+      "action": 1,
+      "x_pos": 292,
+      "x_pos_screen": 112,
+      "y_pos": 103,
+      "flag_get": false
+    },
+    {
+      "step": 40,
+      "action": 4,
+      "x_pos": 299,
+      "x_pos_screen": 112,
+      "y_pos": 83,
+      "flag_get": false
+    },
+    {
+      "step": 41,
+      "action": 4,
+      "x_pos": 306,
+      "x_pos_screen": 112,
+      "y_pos": 96,
+      "flag_get": false
+    },
+    {
+      "step": 42,
+      "action": 1,
+      "x_pos": 313,
+      "x_pos_screen": 112,
+      "y_pos": 99,
+      "flag_get": false
+    },
+    {
+      "step": 43,
+      "action": 1,
+      "x_pos": 320,
+      "x_pos_screen": 112,
+      "y_pos": 94,
+      "flag_get": false
+    },
+    {
+      "step": 44,
+      "action": 1,
+      "x_pos": 327,
+      "x_pos_screen": 112,
+      "y_pos": 80,
+      "flag_get": false
+    },
+    {
+      "step": 45,
+      "action": 1,
+      "x_pos": 334,
+      "x_pos_screen": 112,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 46,
+      "action": 1,
+      "x_pos": 341,
+      "x_pos_screen": 112,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 47,
+      "action": 1,
+      "x_pos": 348,
+      "x_pos_screen": 112,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 48,
+      "action": 1,
+      "x_pos": 355,
+      "x_pos_screen": 112,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 49,
+      "action": 1,
+      "x_pos": 362,
+      "x_pos_screen": 112,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 50,
+      "action": 0,
+      "x_pos": 368,
+      "x_pos_screen": 112,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 51,
+      "action": 0,
+      "x_pos": 374,
+      "x_pos_screen": 112,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 52,
+      "action": 0,
+      "x_pos": 379,
+      "x_pos_screen": 112,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 53,
+      "action": 0,
+      "x_pos": 382,
+      "x_pos_screen": 112,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 54,
+      "action": 1,
+      "x_pos": 386,
+      "x_pos_screen": 112,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 55,
+      "action": 1,
+      "x_pos": 390,
+      "x_pos_screen": 112,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 56,
+      "action": 1,
+      "x_pos": 395,
+      "x_pos_screen": 112,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 57,
+      "action": 1,
+      "x_pos": 402,
+      "x_pos_screen": 112,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 58,
+      "action": 1,
+      "x_pos": 409,
+      "x_pos_screen": 112,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 59,
+      "action": 1,
+      "x_pos": 416,
+      "x_pos_screen": 112,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 60,
+      "action": 1,
+      "x_pos": 423,
+      "x_pos_screen": 112,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 61,
+      "action": 3,
+      "x_pos": 430,
+      "x_pos_screen": 112,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 62,
+      "action": 2,
+      "x_pos": 434,
+      "x_pos_screen": 111,
+      "y_pos": 97,
+      "flag_get": false
+    },
+    {
+      "step": 63,
+      "action": 2,
+      "x_pos": 435,
+      "x_pos_screen": 112,
+      "y_pos": 117,
+      "flag_get": false
+    },
+    {
+      "step": 64,
+      "action": 2,
+      "x_pos": 438,
+      "x_pos_screen": 115,
+      "y_pos": 133,
+      "flag_get": false
+    },
+    {
+      "step": 65,
+      "action": 2,
+      "x_pos": 443,
+      "x_pos_screen": 120,
+      "y_pos": 147,
+      "flag_get": false
+    },
+    {
+      "step": 66,
+      "action": 2,
+      "x_pos": 448,
+      "x_pos_screen": 121,
+      "y_pos": 156,
+      "flag_get": false
+    },
+    {
+      "step": 67,
+      "action": 2,
+      "x_pos": 455,
+      "x_pos_screen": 121,
+      "y_pos": 162,
+      "flag_get": false
+    },
+    {
+      "step": 68,
+      "action": 2,
+      "x_pos": 462,
+      "x_pos_screen": 121,
+      "y_pos": 165,
+      "flag_get": false
+    },
+    {
+      "step": 69,
+      "action": 2,
+      "x_pos": 469,
+      "x_pos_screen": 121,
+      "y_pos": 162,
+      "flag_get": false
+    },
+    {
+      "step": 70,
+      "action": 2,
+      "x_pos": 476,
+      "x_pos_screen": 121,
+      "y_pos": 147,
+      "flag_get": false
+    },
+    {
+      "step": 71,
+      "action": 2,
+      "x_pos": 483,
+      "x_pos_screen": 121,
+      "y_pos": 127,
+      "flag_get": false
+    },
+    {
+      "step": 72,
+      "action": 2,
+      "x_pos": 490,
+      "x_pos_screen": 121,
+      "y_pos": 107,
+      "flag_get": false
+    },
+    {
+      "step": 73,
+      "action": 0,
+      "x_pos": 497,
+      "x_pos_screen": 121,
+      "y_pos": 87,
+      "flag_get": false
+    },
+    {
+      "step": 74,
+      "action": 0,
+      "x_pos": 504,
+      "x_pos_screen": 121,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 75,
+      "action": 0,
+      "x_pos": 510,
+      "x_pos_screen": 121,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 76,
+      "action": 0,
+      "x_pos": 513,
+      "x_pos_screen": 121,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 77,
+      "action": 0,
+      "x_pos": 516,
+      "x_pos_screen": 121,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 78,
+      "action": 1,
+      "x_pos": 518,
+      "x_pos_screen": 121,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 79,
+      "action": 1,
+      "x_pos": 521,
+      "x_pos_screen": 121,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 80,
+      "action": 1,
+      "x_pos": 524,
+      "x_pos_screen": 121,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 81,
+      "action": 1,
+      "x_pos": 529,
+      "x_pos_screen": 121,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 82,
+      "action": 1,
+      "x_pos": 535,
+      "x_pos_screen": 121,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 83,
+      "action": 1,
+      "x_pos": 542,
+      "x_pos_screen": 121,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 84,
+      "action": 1,
+      "x_pos": 549,
+      "x_pos_screen": 121,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 85,
+      "action": 1,
+      "x_pos": 556,
+      "x_pos_screen": 121,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 86,
+      "action": 2,
+      "x_pos": 563,
+      "x_pos_screen": 121,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 87,
+      "action": 2,
+      "x_pos": 570,
+      "x_pos_screen": 121,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 88,
+      "action": 2,
+      "x_pos": 577,
+      "x_pos_screen": 121,
+      "y_pos": 123,
+      "flag_get": false
+    },
+    {
+      "step": 89,
+      "action": 2,
+      "x_pos": 584,
+      "x_pos_screen": 121,
+      "y_pos": 133,
+      "flag_get": false
+    },
+    {
+      "step": 90,
+      "action": 4,
+      "x_pos": 591,
+      "x_pos_screen": 121,
+      "y_pos": 141,
+      "flag_get": false
+    },
+    {
+      "step": 91,
+      "action": 4,
+      "x_pos": 598,
+      "x_pos_screen": 121,
+      "y_pos": 145,
+      "flag_get": false
+    },
+    {
+      "step": 92,
+      "action": 0,
+      "x_pos": 605,
+      "x_pos_screen": 121,
+      "y_pos": 146,
+      "flag_get": false
+    },
+    {
+      "step": 93,
+      "action": 0,
+      "x_pos": 612,
+      "x_pos_screen": 121,
+      "y_pos": 138,
+      "flag_get": false
+    },
+    {
+      "step": 94,
+      "action": 0,
+      "x_pos": 619,
+      "x_pos_screen": 121,
+      "y_pos": 127,
+      "flag_get": false
+    },
+    {
+      "step": 95,
+      "action": 0,
+      "x_pos": 625,
+      "x_pos_screen": 121,
+      "y_pos": 127,
+      "flag_get": false
+    },
+    {
+      "step": 96,
+      "action": 0,
+      "x_pos": 630,
+      "x_pos_screen": 121,
+      "y_pos": 127,
+      "flag_get": false
+    },
+    {
+      "step": 97,
+      "action": 1,
+      "x_pos": 635,
+      "x_pos_screen": 121,
+      "y_pos": 127,
+      "flag_get": false
+    },
+    {
+      "step": 98,
+      "action": 1,
+      "x_pos": 641,
+      "x_pos_screen": 121,
+      "y_pos": 126,
+      "flag_get": false
+    },
+    {
+      "step": 99,
+      "action": 1,
+      "x_pos": 648,
+      "x_pos_screen": 121,
+      "y_pos": 118,
+      "flag_get": false
+    },
+    {
+      "step": 100,
+      "action": 1,
+      "x_pos": 655,
+      "x_pos_screen": 121,
+      "y_pos": 101,
+      "flag_get": false
+    },
+    {
+      "step": 101,
+      "action": 1,
+      "x_pos": 662,
+      "x_pos_screen": 121,
+      "y_pos": 81,
+      "flag_get": false
+    },
+    {
+      "step": 102,
+      "action": 1,
+      "x_pos": 669,
+      "x_pos_screen": 121,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 103,
+      "action": 1,
+      "x_pos": 676,
+      "x_pos_screen": 121,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 104,
+      "action": 4,
+      "x_pos": 683,
+      "x_pos_screen": 121,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 105,
+      "action": 4,
+      "x_pos": 690,
+      "x_pos_screen": 121,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 106,
+      "action": 4,
+      "x_pos": 697,
+      "x_pos_screen": 121,
+      "y_pos": 123,
+      "flag_get": false
+    },
+    {
+      "step": 107,
+      "action": 4,
+      "x_pos": 704,
+      "x_pos_screen": 121,
+      "y_pos": 133,
+      "flag_get": false
+    },
+    {
+      "step": 108,
+      "action": 4,
+      "x_pos": 711,
+      "x_pos_screen": 121,
+      "y_pos": 141,
+      "flag_get": false
+    },
+    {
+      "step": 109,
+      "action": 4,
+      "x_pos": 718,
+      "x_pos_screen": 121,
+      "y_pos": 145,
+      "flag_get": false
+    },
+    {
+      "step": 110,
+      "action": 4,
+      "x_pos": 725,
+      "x_pos_screen": 121,
+      "y_pos": 147,
+      "flag_get": false
+    },
+    {
+      "step": 111,
+      "action": 1,
+      "x_pos": 732,
+      "x_pos_screen": 121,
+      "y_pos": 145,
+      "flag_get": false
+    },
+    {
+      "step": 112,
+      "action": 1,
+      "x_pos": 739,
+      "x_pos_screen": 121,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 113,
+      "action": 1,
+      "x_pos": 746,
+      "x_pos_screen": 121,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 114,
+      "action": 4,
+      "x_pos": 753,
+      "x_pos_screen": 121,
+      "y_pos": 157,
+      "flag_get": false
+    },
+    {
+      "step": 115,
+      "action": 4,
+      "x_pos": 760,
+      "x_pos_screen": 121,
+      "y_pos": 173,
+      "flag_get": false
+    },
+    {
+      "step": 116,
+      "action": 4,
+      "x_pos": 767,
+      "x_pos_screen": 121,
+      "y_pos": 187,
+      "flag_get": false
+    },
+    {
+      "step": 117,
+      "action": 0,
+      "x_pos": 774,
+      "x_pos_screen": 121,
+      "y_pos": 196,
+      "flag_get": false
+    },
+    {
+      "step": 118,
+      "action": 0,
+      "x_pos": 781,
+      "x_pos_screen": 121,
+      "y_pos": 196,
+      "flag_get": false
+    },
+    {
+      "step": 119,
+      "action": 0,
+      "x_pos": 788,
+      "x_pos_screen": 121,
+      "y_pos": 188,
+      "flag_get": false
+    },
+    {
+      "step": 120,
+      "action": 0,
+      "x_pos": 795,
+      "x_pos_screen": 121,
+      "y_pos": 171,
+      "flag_get": false
+    },
+    {
+      "step": 121,
+      "action": 0,
+      "x_pos": 802,
+      "x_pos_screen": 121,
+      "y_pos": 151,
+      "flag_get": false
+    },
+    {
+      "step": 122,
+      "action": 0,
+      "x_pos": 809,
+      "x_pos_screen": 121,
+      "y_pos": 131,
+      "flag_get": false
+    },
+    {
+      "step": 123,
+      "action": 0,
+      "x_pos": 816,
+      "x_pos_screen": 121,
+      "y_pos": 111,
+      "flag_get": false
+    },
+    {
+      "step": 124,
+      "action": 0,
+      "x_pos": 823,
+      "x_pos_screen": 121,
+      "y_pos": 91,
+      "flag_get": false
+    },
+    {
+      "step": 125,
+      "action": 0,
+      "x_pos": 830,
+      "x_pos_screen": 121,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 126,
+      "action": 0,
+      "x_pos": 836,
+      "x_pos_screen": 121,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 127,
+      "action": 0,
+      "x_pos": 841,
+      "x_pos_screen": 121,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 128,
+      "action": 0,
+      "x_pos": 845,
+      "x_pos_screen": 121,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 129,
+      "action": 2,
+      "x_pos": 849,
+      "x_pos_screen": 121,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 130,
+      "action": 3,
+      "x_pos": 854,
+      "x_pos_screen": 121,
+      "y_pos": 108,
+      "flag_get": false
+    },
+    {
+      "step": 131,
+      "action": 3,
+      "x_pos": 860,
+      "x_pos_screen": 121,
+      "y_pos": 112,
+      "flag_get": false
+    },
+    {
+      "step": 132,
+      "action": 2,
+      "x_pos": 866,
+      "x_pos_screen": 121,
+      "y_pos": 106,
+      "flag_get": false
+    },
+    {
+      "step": 133,
+      "action": 4,
+      "x_pos": 873,
+      "x_pos_screen": 121,
+      "y_pos": 89,
+      "flag_get": false
+    },
+    {
+      "step": 134,
+      "action": 4,
+      "x_pos": 881,
+      "x_pos_screen": 121,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 135,
+      "action": 4,
+      "x_pos": 890,
+      "x_pos_screen": 121,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 136,
+      "action": 4,
+      "x_pos": 900,
+      "x_pos_screen": 120,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 137,
+      "action": 0,
+      "x_pos": 898,
+      "x_pos_screen": 118,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 138,
+      "action": 0,
+      "x_pos": 898,
+      "x_pos_screen": 118,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 139,
+      "action": 2,
+      "x_pos": 898,
+      "x_pos_screen": 118,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 140,
+      "action": 0,
+      "x_pos": 898,
+      "x_pos_screen": 118,
+      "y_pos": 108,
+      "flag_get": false
+    },
+    {
+      "step": 141,
+      "action": 2,
+      "x_pos": 898,
+      "x_pos_screen": 118,
+      "y_pos": 112,
+      "flag_get": false
+    },
+    {
+      "step": 142,
+      "action": 1,
+      "x_pos": 898,
+      "x_pos_screen": 118,
+      "y_pos": 106,
+      "flag_get": false
+    },
+    {
+      "step": 143,
+      "action": 0,
+      "x_pos": 898,
+      "x_pos_screen": 118,
+      "y_pos": 89,
+      "flag_get": false
+    },
+    {
+      "step": 144,
+      "action": 0,
+      "x_pos": 898,
+      "x_pos_screen": 118,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 145,
+      "action": 1,
+      "x_pos": 898,
+      "x_pos_screen": 118,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 146,
+      "action": 1,
+      "x_pos": 898,
+      "x_pos_screen": 118,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 147,
+      "action": 2,
+      "x_pos": 898,
+      "x_pos_screen": 118,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 148,
+      "action": 2,
+      "x_pos": 898,
+      "x_pos_screen": 118,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 149,
+      "action": 2,
+      "x_pos": 898,
+      "x_pos_screen": 118,
+      "y_pos": 122,
+      "flag_get": false
+    },
+    {
+      "step": 150,
+      "action": 2,
+      "x_pos": 898,
+      "x_pos_screen": 118,
+      "y_pos": 132,
+      "flag_get": false
+    },
+    {
+      "step": 151,
+      "action": 2,
+      "x_pos": 898,
+      "x_pos_screen": 118,
+      "y_pos": 139,
+      "flag_get": false
+    },
+    {
+      "step": 152,
+      "action": 0,
+      "x_pos": 899,
+      "x_pos_screen": 119,
+      "y_pos": 141,
+      "flag_get": false
+    },
+    {
+      "step": 153,
+      "action": 2,
+      "x_pos": 900,
+      "x_pos_screen": 120,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 154,
+      "action": 2,
+      "x_pos": 903,
+      "x_pos_screen": 122,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 155,
+      "action": 2,
+      "x_pos": 906,
+      "x_pos_screen": 122,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 156,
+      "action": 2,
+      "x_pos": 911,
+      "x_pos_screen": 122,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 157,
+      "action": 2,
+      "x_pos": 916,
+      "x_pos_screen": 122,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 158,
+      "action": 2,
+      "x_pos": 922,
+      "x_pos_screen": 122,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 159,
+      "action": 0,
+      "x_pos": 929,
+      "x_pos_screen": 122,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 160,
+      "action": 0,
+      "x_pos": 935,
+      "x_pos_screen": 122,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 161,
+      "action": 0,
+      "x_pos": 939,
+      "x_pos_screen": 122,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 162,
+      "action": 0,
+      "x_pos": 943,
+      "x_pos_screen": 122,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 163,
+      "action": 0,
+      "x_pos": 947,
+      "x_pos_screen": 122,
+      "y_pos": 134,
+      "flag_get": false
+    },
+    {
+      "step": 164,
+      "action": 0,
+      "x_pos": 950,
+      "x_pos_screen": 122,
+      "y_pos": 115,
+      "flag_get": false
+    },
+    {
+      "step": 165,
+      "action": 0,
+      "x_pos": 954,
+      "x_pos_screen": 122,
+      "y_pos": 95,
+      "flag_get": false
+    },
+    {
+      "step": 166,
+      "action": 0,
+      "x_pos": 958,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 167,
+      "action": 0,
+      "x_pos": 961,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 168,
+      "action": 0,
+      "x_pos": 963,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 169,
+      "action": 1,
+      "x_pos": 965,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 170,
+      "action": 0,
+      "x_pos": 967,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 171,
+      "action": 1,
+      "x_pos": 969,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 172,
+      "action": 1,
+      "x_pos": 972,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 173,
+      "action": 1,
+      "x_pos": 976,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 174,
+      "action": 1,
+      "x_pos": 981,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 175,
+      "action": 1,
+      "x_pos": 987,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 176,
+      "action": 1,
+      "x_pos": 993,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 177,
+      "action": 1,
+      "x_pos": 1000,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 178,
+      "action": 2,
+      "x_pos": 1007,
+      "x_pos_screen": 122,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 179,
+      "action": 2,
+      "x_pos": 1014,
+      "x_pos_screen": 122,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 180,
+      "action": 2,
+      "x_pos": 1021,
+      "x_pos_screen": 122,
+      "y_pos": 123,
+      "flag_get": false
+    },
+    {
+      "step": 181,
+      "action": 2,
+      "x_pos": 1028,
+      "x_pos_screen": 122,
+      "y_pos": 130,
+      "flag_get": false
+    },
+    {
+      "step": 182,
+      "action": 0,
+      "x_pos": 1035,
+      "x_pos_screen": 122,
+      "y_pos": 122,
+      "flag_get": false
+    },
+    {
+      "step": 183,
+      "action": 0,
+      "x_pos": 1042,
+      "x_pos_screen": 122,
+      "y_pos": 104,
+      "flag_get": false
+    },
+    {
+      "step": 184,
+      "action": 0,
+      "x_pos": 1049,
+      "x_pos_screen": 122,
+      "y_pos": 84,
+      "flag_get": false
+    },
+    {
+      "step": 185,
+      "action": 0,
+      "x_pos": 1056,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 186,
+      "action": 0,
+      "x_pos": 1062,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 187,
+      "action": 4,
+      "x_pos": 1067,
+      "x_pos_screen": 122,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 188,
+      "action": 4,
+      "x_pos": 1073,
+      "x_pos_screen": 122,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 189,
+      "action": 4,
+      "x_pos": 1080,
+      "x_pos_screen": 122,
+      "y_pos": 123,
+      "flag_get": false
+    },
+    {
+      "step": 190,
+      "action": 4,
+      "x_pos": 1087,
+      "x_pos_screen": 122,
+      "y_pos": 133,
+      "flag_get": false
+    },
+    {
+      "step": 191,
+      "action": 4,
+      "x_pos": 1094,
+      "x_pos_screen": 122,
+      "y_pos": 141,
+      "flag_get": false
+    },
+    {
+      "step": 192,
+      "action": 0,
+      "x_pos": 1101,
+      "x_pos_screen": 122,
+      "y_pos": 144,
+      "flag_get": false
+    },
+    {
+      "step": 193,
+      "action": 0,
+      "x_pos": 1108,
+      "x_pos_screen": 122,
+      "y_pos": 139,
+      "flag_get": false
+    },
+    {
+      "step": 194,
+      "action": 0,
+      "x_pos": 1115,
+      "x_pos_screen": 122,
+      "y_pos": 125,
+      "flag_get": false
+    },
+    {
+      "step": 195,
+      "action": 0,
+      "x_pos": 1122,
+      "x_pos_screen": 122,
+      "y_pos": 104,
+      "flag_get": false
+    },
+    {
+      "step": 196,
+      "action": 0,
+      "x_pos": 1129,
+      "x_pos_screen": 122,
+      "y_pos": 84,
+      "flag_get": false
+    },
+    {
+      "step": 197,
+      "action": 0,
+      "x_pos": 1136,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 198,
+      "action": 0,
+      "x_pos": 1142,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 199,
+      "action": 1,
+      "x_pos": 1147,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 200,
+      "action": 1,
+      "x_pos": 1153,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 201,
+      "action": 1,
+      "x_pos": 1160,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 202,
+      "action": 1,
+      "x_pos": 1167,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 203,
+      "action": 1,
+      "x_pos": 1174,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 204,
+      "action": 1,
+      "x_pos": 1181,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 205,
+      "action": 1,
+      "x_pos": 1188,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 206,
+      "action": 1,
+      "x_pos": 1195,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 207,
+      "action": 1,
+      "x_pos": 1202,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 208,
+      "action": 1,
+      "x_pos": 1209,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 209,
+      "action": 0,
+      "x_pos": 1216,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 210,
+      "action": 0,
+      "x_pos": 1222,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 211,
+      "action": 0,
+      "x_pos": 1226,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 212,
+      "action": 0,
+      "x_pos": 1230,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 213,
+      "action": 0,
+      "x_pos": 1233,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 214,
+      "action": 0,
+      "x_pos": 1234,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 215,
+      "action": 4,
+      "x_pos": 1236,
+      "x_pos_screen": 122,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 216,
+      "action": 4,
+      "x_pos": 1238,
+      "x_pos_screen": 122,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 217,
+      "action": 4,
+      "x_pos": 1241,
+      "x_pos_screen": 122,
+      "y_pos": 113,
+      "flag_get": false
+    },
+    {
+      "step": 218,
+      "action": 4,
+      "x_pos": 1246,
+      "x_pos_screen": 122,
+      "y_pos": 101,
+      "flag_get": false
+    },
+    {
+      "step": 219,
+      "action": 4,
+      "x_pos": 1251,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 220,
+      "action": 0,
+      "x_pos": 1257,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 221,
+      "action": 0,
+      "x_pos": 1262,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 222,
+      "action": 0,
+      "x_pos": 1266,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 223,
+      "action": 0,
+      "x_pos": 1269,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 224,
+      "action": 0,
+      "x_pos": 1270,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 225,
+      "action": 0,
+      "x_pos": 1271,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 226,
+      "action": 4,
+      "x_pos": 1272,
+      "x_pos_screen": 122,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 227,
+      "action": 4,
+      "x_pos": 1274,
+      "x_pos_screen": 122,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 228,
+      "action": 4,
+      "x_pos": 1276,
+      "x_pos_screen": 122,
+      "y_pos": 122,
+      "flag_get": false
+    },
+    {
+      "step": 229,
+      "action": 4,
+      "x_pos": 1280,
+      "x_pos_screen": 122,
+      "y_pos": 132,
+      "flag_get": false
+    },
+    {
+      "step": 230,
+      "action": 0,
+      "x_pos": 1284,
+      "x_pos_screen": 122,
+      "y_pos": 137,
+      "flag_get": false
+    },
+    {
+      "step": 231,
+      "action": 0,
+      "x_pos": 1288,
+      "x_pos_screen": 122,
+      "y_pos": 133,
+      "flag_get": false
+    },
+    {
+      "step": 232,
+      "action": 0,
+      "x_pos": 1293,
+      "x_pos_screen": 122,
+      "y_pos": 117,
+      "flag_get": false
+    },
+    {
+      "step": 233,
+      "action": 1,
+      "x_pos": 1297,
+      "x_pos_screen": 122,
+      "y_pos": 96,
+      "flag_get": false
+    },
+    {
+      "step": 234,
+      "action": 0,
+      "x_pos": 1302,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 235,
+      "action": 0,
+      "x_pos": 1307,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 236,
+      "action": 0,
+      "x_pos": 1311,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 237,
+      "action": 0,
+      "x_pos": 1313,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 238,
+      "action": 3,
+      "x_pos": 1316,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 239,
+      "action": 3,
+      "x_pos": 1320,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 240,
+      "action": 3,
+      "x_pos": 1326,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 241,
+      "action": 3,
+      "x_pos": 1334,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 242,
+      "action": 2,
+      "x_pos": 1344,
+      "x_pos_screen": 122,
+      "y_pos": 97,
+      "flag_get": false
+    },
+    {
+      "step": 243,
+      "action": 2,
+      "x_pos": 1355,
+      "x_pos_screen": 122,
+      "y_pos": 117,
+      "flag_get": false
+    },
+    {
+      "step": 244,
+      "action": 2,
+      "x_pos": 1367,
+      "x_pos_screen": 122,
+      "y_pos": 133,
+      "flag_get": false
+    },
+    {
+      "step": 245,
+      "action": 3,
+      "x_pos": 1379,
+      "x_pos_screen": 122,
+      "y_pos": 145,
+      "flag_get": false
+    },
+    {
+      "step": 246,
+      "action": 3,
+      "x_pos": 1391,
+      "x_pos_screen": 122,
+      "y_pos": 144,
+      "flag_get": false
+    },
+    {
+      "step": 247,
+      "action": 3,
+      "x_pos": 1403,
+      "x_pos_screen": 122,
+      "y_pos": 129,
+      "flag_get": false
+    },
+    {
+      "step": 248,
+      "action": 3,
+      "x_pos": 1415,
+      "x_pos_screen": 122,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 249,
+      "action": 1,
+      "x_pos": 1427,
+      "x_pos_screen": 122,
+      "y_pos": 89,
+      "flag_get": false
+    },
+    {
+      "step": 250,
+      "action": 1,
+      "x_pos": 1436,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 251,
+      "action": 1,
+      "x_pos": 1443,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 252,
+      "action": 1,
+      "x_pos": 1450,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 253,
+      "action": 2,
+      "x_pos": 1457,
+      "x_pos_screen": 122,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 254,
+      "action": 2,
+      "x_pos": 1464,
+      "x_pos_screen": 122,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 255,
+      "action": 2,
+      "x_pos": 1471,
+      "x_pos_screen": 122,
+      "y_pos": 123,
+      "flag_get": false
+    },
+    {
+      "step": 256,
+      "action": 2,
+      "x_pos": 1478,
+      "x_pos_screen": 122,
+      "y_pos": 133,
+      "flag_get": false
+    },
+    {
+      "step": 257,
+      "action": 4,
+      "x_pos": 1485,
+      "x_pos_screen": 122,
+      "y_pos": 141,
+      "flag_get": false
+    },
+    {
+      "step": 258,
+      "action": 4,
+      "x_pos": 1492,
+      "x_pos_screen": 122,
+      "y_pos": 145,
+      "flag_get": false
+    },
+    {
+      "step": 259,
+      "action": 4,
+      "x_pos": 1499,
+      "x_pos_screen": 122,
+      "y_pos": 147,
+      "flag_get": false
+    },
+    {
+      "step": 260,
+      "action": 4,
+      "x_pos": 1506,
+      "x_pos_screen": 122,
+      "y_pos": 145,
+      "flag_get": false
+    },
+    {
+      "step": 261,
+      "action": 4,
+      "x_pos": 1514,
+      "x_pos_screen": 122,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 262,
+      "action": 4,
+      "x_pos": 1524,
+      "x_pos_screen": 122,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 263,
+      "action": 0,
+      "x_pos": 1534,
+      "x_pos_screen": 122,
+      "y_pos": 135,
+      "flag_get": false
+    },
+    {
+      "step": 264,
+      "action": 4,
+      "x_pos": 1545,
+      "x_pos_screen": 122,
+      "y_pos": 118,
+      "flag_get": false
+    },
+    {
+      "step": 265,
+      "action": 1,
+      "x_pos": 1557,
+      "x_pos_screen": 122,
+      "y_pos": 98,
+      "flag_get": false
+    },
+    {
+      "step": 266,
+      "action": 1,
+      "x_pos": 1569,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 267,
+      "action": 1,
+      "x_pos": 1576,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 268,
+      "action": 4,
+      "x_pos": 1583,
+      "x_pos_screen": 122,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 269,
+      "action": 4,
+      "x_pos": 1590,
+      "x_pos_screen": 122,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 270,
+      "action": 4,
+      "x_pos": 1597,
+      "x_pos_screen": 122,
+      "y_pos": 114,
+      "flag_get": false
+    },
+    {
+      "step": 271,
+      "action": 4,
+      "x_pos": 1604,
+      "x_pos_screen": 122,
+      "y_pos": 103,
+      "flag_get": false
+    },
+    {
+      "step": 272,
+      "action": 0,
+      "x_pos": 1611,
+      "x_pos_screen": 122,
+      "y_pos": 84,
+      "flag_get": false
+    },
+    {
+      "step": 273,
+      "action": 0,
+      "x_pos": 1618,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 274,
+      "action": 0,
+      "x_pos": 1624,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 275,
+      "action": 0,
+      "x_pos": 1628,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 276,
+      "action": 3,
+      "x_pos": 1633,
+      "x_pos_screen": 122,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 277,
+      "action": 4,
+      "x_pos": 1639,
+      "x_pos_screen": 122,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 278,
+      "action": 4,
+      "x_pos": 1646,
+      "x_pos_screen": 122,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 279,
+      "action": 4,
+      "x_pos": 1653,
+      "x_pos_screen": 122,
+      "y_pos": 123,
+      "flag_get": false
+    },
+    {
+      "step": 280,
+      "action": 4,
+      "x_pos": 1660,
+      "x_pos_screen": 122,
+      "y_pos": 133,
+      "flag_get": false
+    },
+    {
+      "step": 281,
+      "action": 4,
+      "x_pos": 1667,
+      "x_pos_screen": 122,
+      "y_pos": 141,
+      "flag_get": false
+    },
+    {
+      "step": 282,
+      "action": 0,
+      "x_pos": 1674,
+      "x_pos_screen": 122,
+      "y_pos": 144,
+      "flag_get": false
+    },
+    {
+      "step": 283,
+      "action": 2,
+      "x_pos": 1681,
+      "x_pos_screen": 122,
+      "y_pos": 139,
+      "flag_get": false
+    },
+    {
+      "step": 284,
+      "action": 2,
+      "x_pos": 1682,
+      "x_pos_screen": 120,
+      "y_pos": 125,
+      "flag_get": false
+    },
+    {
+      "step": 285,
+      "action": 0,
+      "x_pos": 1683,
+      "x_pos_screen": 121,
+      "y_pos": 104,
+      "flag_get": false
+    },
+    {
+      "step": 286,
+      "action": 0,
+      "x_pos": 1683,
+      "x_pos_screen": 121,
+      "y_pos": 84,
+      "flag_get": false
+    },
+    {
+      "step": 287,
+      "action": 2,
+      "x_pos": 1684,
+      "x_pos_screen": 122,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 288,
+      "action": 2,
+      "x_pos": 1685,
+      "x_pos_screen": 122,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 289,
+      "action": 2,
+      "x_pos": 1687,
+      "x_pos_screen": 121,
+      "y_pos": 122,
+      "flag_get": false
+    },
+    {
+      "step": 290,
+      "action": 2,
+      "x_pos": 1685,
+      "x_pos_screen": 119,
+      "y_pos": 117,
+      "flag_get": false
+    },
+    {
+      "step": 291,
+      "action": 2,
+      "x_pos": 1686,
+      "x_pos_screen": 120,
+      "y_pos": 101,
+      "flag_get": false
+    },
+    {
+      "step": 292,
+      "action": 2,
+      "x_pos": 1688,
+      "x_pos_screen": 122,
+      "y_pos": 81,
+      "flag_get": false
+    },
+    {
+      "step": 293,
+      "action": 3,
+      "x_pos": 1691,
+      "x_pos_screen": 125,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 294,
+      "action": 2,
+      "x_pos": 1695,
+      "x_pos_screen": 126,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 295,
+      "action": 2,
+      "x_pos": 1701,
+      "x_pos_screen": 126,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 296,
+      "action": 2,
+      "x_pos": 1708,
+      "x_pos_screen": 126,
+      "y_pos": 122,
+      "flag_get": false
+    },
+    {
+      "step": 297,
+      "action": 2,
+      "x_pos": 1715,
+      "x_pos_screen": 126,
+      "y_pos": 132,
+      "flag_get": false
+    },
+    {
+      "step": 298,
+      "action": 1,
+      "x_pos": 1722,
+      "x_pos_screen": 126,
+      "y_pos": 137,
+      "flag_get": false
+    },
+    {
+      "step": 299,
+      "action": 2,
+      "x_pos": 1729,
+      "x_pos_screen": 126,
+      "y_pos": 133,
+      "flag_get": false
+    },
+    {
+      "step": 300,
+      "action": 2,
+      "x_pos": 1730,
+      "x_pos_screen": 124,
+      "y_pos": 117,
+      "flag_get": false
+    },
+    {
+      "step": 301,
+      "action": 2,
+      "x_pos": 1731,
+      "x_pos_screen": 125,
+      "y_pos": 96,
+      "flag_get": false
+    },
+    {
+      "step": 302,
+      "action": 2,
+      "x_pos": 1732,
+      "x_pos_screen": 126,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 303,
+      "action": 1,
+      "x_pos": 1735,
+      "x_pos_screen": 129,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 304,
+      "action": 1,
+      "x_pos": 1739,
+      "x_pos_screen": 131,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 305,
+      "action": 1,
+      "x_pos": 1743,
+      "x_pos_screen": 131,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 306,
+      "action": 1,
+      "x_pos": 1749,
+      "x_pos_screen": 131,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 307,
+      "action": 1,
+      "x_pos": 1755,
+      "x_pos_screen": 131,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 308,
+      "action": 2,
+      "x_pos": 1762,
+      "x_pos_screen": 131,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 309,
+      "action": 2,
+      "x_pos": 1769,
+      "x_pos_screen": 131,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 310,
+      "action": 4,
+      "x_pos": 1776,
+      "x_pos_screen": 131,
+      "y_pos": 123,
+      "flag_get": false
+    },
+    {
+      "step": 311,
+      "action": 4,
+      "x_pos": 1778,
+      "x_pos_screen": 129,
+      "y_pos": 133,
+      "flag_get": false
+    },
+    {
+      "step": 312,
+      "action": 1,
+      "x_pos": 1779,
+      "x_pos_screen": 130,
+      "y_pos": 139,
+      "flag_get": false
+    },
+    {
+      "step": 313,
+      "action": 0,
+      "x_pos": 1779,
+      "x_pos_screen": 130,
+      "y_pos": 137,
+      "flag_get": false
+    },
+    {
+      "step": 314,
+      "action": 1,
+      "x_pos": 1778,
+      "x_pos_screen": 129,
+      "y_pos": 126,
+      "flag_get": false
+    },
+    {
+      "step": 315,
+      "action": 1,
+      "x_pos": 1779,
+      "x_pos_screen": 130,
+      "y_pos": 107,
+      "flag_get": false
+    },
+    {
+      "step": 316,
+      "action": 1,
+      "x_pos": 1781,
+      "x_pos_screen": 132,
+      "y_pos": 87,
+      "flag_get": false
+    },
+    {
+      "step": 317,
+      "action": 1,
+      "x_pos": 1784,
+      "x_pos_screen": 135,
+      "y_pos": 99,
+      "flag_get": false
+    },
+    {
+      "step": 318,
+      "action": 2,
+      "x_pos": 1788,
+      "x_pos_screen": 135,
+      "y_pos": 103,
+      "flag_get": false
+    },
+    {
+      "step": 319,
+      "action": 2,
+      "x_pos": 1794,
+      "x_pos_screen": 135,
+      "y_pos": 98,
+      "flag_get": false
+    },
+    {
+      "step": 320,
+      "action": 1,
+      "x_pos": 1800,
+      "x_pos_screen": 135,
+      "y_pos": 83,
+      "flag_get": false
+    },
+    {
+      "step": 321,
+      "action": 1,
+      "x_pos": 1807,
+      "x_pos_screen": 135,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 322,
+      "action": 2,
+      "x_pos": 1814,
+      "x_pos_screen": 135,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 323,
+      "action": 2,
+      "x_pos": 1821,
+      "x_pos_screen": 135,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 324,
+      "action": 0,
+      "x_pos": 1828,
+      "x_pos_screen": 135,
+      "y_pos": 121,
+      "flag_get": false
+    },
+    {
+      "step": 325,
+      "action": 0,
+      "x_pos": 1835,
+      "x_pos_screen": 135,
+      "y_pos": 125,
+      "flag_get": false
+    },
+    {
+      "step": 326,
+      "action": 0,
+      "x_pos": 1842,
+      "x_pos_screen": 135,
+      "y_pos": 119,
+      "flag_get": false
+    },
+    {
+      "step": 327,
+      "action": 0,
+      "x_pos": 1849,
+      "x_pos_screen": 135,
+      "y_pos": 105,
+      "flag_get": false
+    },
+    {
+      "step": 328,
+      "action": 0,
+      "x_pos": 1856,
+      "x_pos_screen": 135,
+      "y_pos": 85,
+      "flag_get": false
+    },
+    {
+      "step": 329,
+      "action": 1,
+      "x_pos": 1863,
+      "x_pos_screen": 135,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 330,
+      "action": 1,
+      "x_pos": 1870,
+      "x_pos_screen": 135,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 331,
+      "action": 0,
+      "x_pos": 1876,
+      "x_pos_screen": 135,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 332,
+      "action": 0,
+      "x_pos": 1882,
+      "x_pos_screen": 135,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 333,
+      "action": 3,
+      "x_pos": 1887,
+      "x_pos_screen": 135,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 334,
+      "action": 3,
+      "x_pos": 1895,
+      "x_pos_screen": 135,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 335,
+      "action": 3,
+      "x_pos": 1904,
+      "x_pos_screen": 135,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 336,
+      "action": 3,
+      "x_pos": 1915,
+      "x_pos_screen": 135,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 337,
+      "action": 3,
+      "x_pos": 1927,
+      "x_pos_screen": 135,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 338,
+      "action": 3,
+      "x_pos": 1939,
+      "x_pos_screen": 135,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 339,
+      "action": 2,
+      "x_pos": 1951,
+      "x_pos_screen": 135,
+      "y_pos": 97,
+      "flag_get": false
+    },
+    {
+      "step": 340,
+      "action": 2,
+      "x_pos": 1963,
+      "x_pos_screen": 135,
+      "y_pos": 117,
+      "flag_get": false
+    },
+    {
+      "step": 341,
+      "action": 4,
+      "x_pos": 1975,
+      "x_pos_screen": 135,
+      "y_pos": 133,
+      "flag_get": false
+    },
+    {
+      "step": 342,
+      "action": 4,
+      "x_pos": 1987,
+      "x_pos_screen": 135,
+      "y_pos": 147,
+      "flag_get": false
+    },
+    {
+      "step": 343,
+      "action": 4,
+      "x_pos": 1999,
+      "x_pos_screen": 135,
+      "y_pos": 156,
+      "flag_get": false
+    },
+    {
+      "step": 344,
+      "action": 2,
+      "x_pos": 2011,
+      "x_pos_screen": 135,
+      "y_pos": 162,
+      "flag_get": false
+    },
+    {
+      "step": 345,
+      "action": 2,
+      "x_pos": 2023,
+      "x_pos_screen": 135,
+      "y_pos": 165,
+      "flag_get": false
+    },
+    {
+      "step": 346,
+      "action": 1,
+      "x_pos": 2035,
+      "x_pos_screen": 135,
+      "y_pos": 162,
+      "flag_get": false
+    },
+    {
+      "step": 347,
+      "action": 1,
+      "x_pos": 2047,
+      "x_pos_screen": 135,
+      "y_pos": 147,
+      "flag_get": false
+    },
+    {
+      "step": 348,
+      "action": 1,
+      "x_pos": 2050,
+      "x_pos_screen": 132,
+      "y_pos": 127,
+      "flag_get": false
+    },
+    {
+      "step": 349,
+      "action": 1,
+      "x_pos": 2050,
+      "x_pos_screen": 132,
+      "y_pos": 107,
+      "flag_get": false
+    },
+    {
+      "step": 350,
+      "action": 1,
+      "x_pos": 2052,
+      "x_pos_screen": 134,
+      "y_pos": 87,
+      "flag_get": false
+    },
+    {
+      "step": 351,
+      "action": 1,
+      "x_pos": 2056,
+      "x_pos_screen": 138,
+      "y_pos": 98,
+      "flag_get": false
+    },
+    {
+      "step": 352,
+      "action": 1,
+      "x_pos": 2061,
+      "x_pos_screen": 142,
+      "y_pos": 96,
+      "flag_get": false
+    },
+    {
+      "step": 353,
+      "action": 1,
+      "x_pos": 2068,
+      "x_pos_screen": 142,
+      "y_pos": 81,
+      "flag_get": false
+    },
+    {
+      "step": 354,
+      "action": 1,
+      "x_pos": 2075,
+      "x_pos_screen": 142,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 355,
+      "action": 1,
+      "x_pos": 2082,
+      "x_pos_screen": 142,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 356,
+      "action": 1,
+      "x_pos": 2089,
+      "x_pos_screen": 142,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 357,
+      "action": 0,
+      "x_pos": 2095,
+      "x_pos_screen": 142,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 358,
+      "action": 0,
+      "x_pos": 2101,
+      "x_pos_screen": 142,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 359,
+      "action": 0,
+      "x_pos": 2106,
+      "x_pos_screen": 142,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 360,
+      "action": 0,
+      "x_pos": 2109,
+      "x_pos_screen": 142,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 361,
+      "action": 3,
+      "x_pos": 2113,
+      "x_pos_screen": 142,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 362,
+      "action": 3,
+      "x_pos": 2118,
+      "x_pos_screen": 142,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 363,
+      "action": 3,
+      "x_pos": 2125,
+      "x_pos_screen": 142,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 364,
+      "action": 3,
+      "x_pos": 2130,
+      "x_pos_screen": 140,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 365,
+      "action": 1,
+      "x_pos": 2130,
+      "x_pos_screen": 140,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 366,
+      "action": 2,
+      "x_pos": 2130,
+      "x_pos_screen": 140,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 367,
+      "action": 4,
+      "x_pos": 2131,
+      "x_pos_screen": 141,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 368,
+      "action": 4,
+      "x_pos": 2134,
+      "x_pos_screen": 144,
+      "y_pos": 122,
+      "flag_get": false
+    },
+    {
+      "step": 369,
+      "action": 4,
+      "x_pos": 2137,
+      "x_pos_screen": 146,
+      "y_pos": 132,
+      "flag_get": false
+    },
+    {
+      "step": 370,
+      "action": 4,
+      "x_pos": 2141,
+      "x_pos_screen": 146,
+      "y_pos": 139,
+      "flag_get": false
+    },
+    {
+      "step": 371,
+      "action": 1,
+      "x_pos": 2147,
+      "x_pos_screen": 146,
+      "y_pos": 141,
+      "flag_get": false
+    },
+    {
+      "step": 372,
+      "action": 1,
+      "x_pos": 2153,
+      "x_pos_screen": 146,
+      "y_pos": 133,
+      "flag_get": false
+    },
+    {
+      "step": 373,
+      "action": 1,
+      "x_pos": 2160,
+      "x_pos_screen": 146,
+      "y_pos": 116,
+      "flag_get": false
+    },
+    {
+      "step": 374,
+      "action": 1,
+      "x_pos": 2162,
+      "x_pos_screen": 144,
+      "y_pos": 111,
+      "flag_get": false
+    },
+    {
+      "step": 375,
+      "action": 1,
+      "x_pos": 2162,
+      "x_pos_screen": 144,
+      "y_pos": 111,
+      "flag_get": false
+    },
+    {
+      "step": 376,
+      "action": 4,
+      "x_pos": 2162,
+      "x_pos_screen": 144,
+      "y_pos": 125,
+      "flag_get": false
+    },
+    {
+      "step": 377,
+      "action": 4,
+      "x_pos": 2163,
+      "x_pos_screen": 145,
+      "y_pos": 141,
+      "flag_get": false
+    },
+    {
+      "step": 378,
+      "action": 4,
+      "x_pos": 2165,
+      "x_pos_screen": 147,
+      "y_pos": 154,
+      "flag_get": false
+    },
+    {
+      "step": 379,
+      "action": 4,
+      "x_pos": 2168,
+      "x_pos_screen": 150,
+      "y_pos": 164,
+      "flag_get": false
+    },
+    {
+      "step": 380,
+      "action": 4,
+      "x_pos": 2172,
+      "x_pos_screen": 150,
+      "y_pos": 171,
+      "flag_get": false
+    },
+    {
+      "step": 381,
+      "action": 4,
+      "x_pos": 2177,
+      "x_pos_screen": 150,
+      "y_pos": 174,
+      "flag_get": false
+    },
+    {
+      "step": 382,
+      "action": 4,
+      "x_pos": 2184,
+      "x_pos_screen": 150,
+      "y_pos": 175,
+      "flag_get": false
+    },
+    {
+      "step": 383,
+      "action": 4,
+      "x_pos": 2191,
+      "x_pos_screen": 150,
+      "y_pos": 168,
+      "flag_get": false
+    },
+    {
+      "step": 384,
+      "action": 4,
+      "x_pos": 2198,
+      "x_pos_screen": 150,
+      "y_pos": 151,
+      "flag_get": false
+    },
+    {
+      "step": 385,
+      "action": 2,
+      "x_pos": 2205,
+      "x_pos_screen": 150,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 386,
+      "action": 2,
+      "x_pos": 2212,
+      "x_pos_screen": 150,
+      "y_pos": 139,
+      "flag_get": false
+    },
+    {
+      "step": 387,
+      "action": 2,
+      "x_pos": 2219,
+      "x_pos_screen": 150,
+      "y_pos": 125,
+      "flag_get": false
+    },
+    {
+      "step": 388,
+      "action": 2,
+      "x_pos": 2226,
+      "x_pos_screen": 150,
+      "y_pos": 104,
+      "flag_get": false
+    },
+    {
+      "step": 389,
+      "action": 2,
+      "x_pos": 2226,
+      "x_pos_screen": 149,
+      "y_pos": 84,
+      "flag_get": false
+    },
+    {
+      "step": 390,
+      "action": 2,
+      "x_pos": 2226,
+      "x_pos_screen": 149,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 391,
+      "action": 0,
+      "x_pos": 2226,
+      "x_pos_screen": 149,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 392,
+      "action": 0,
+      "x_pos": 2226,
+      "x_pos_screen": 149,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 393,
+      "action": 0,
+      "x_pos": 2226,
+      "x_pos_screen": 149,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 394,
+      "action": 2,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 395,
+      "action": 0,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 108,
+      "flag_get": false
+    },
+    {
+      "step": 396,
+      "action": 4,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 112,
+      "flag_get": false
+    },
+    {
+      "step": 397,
+      "action": 2,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 106,
+      "flag_get": false
+    },
+    {
+      "step": 398,
+      "action": 2,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 89,
+      "flag_get": false
+    },
+    {
+      "step": 399,
+      "action": 3,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 400,
+      "action": 2,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 401,
+      "action": 2,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 402,
+      "action": 2,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 122,
+      "flag_get": false
+    },
+    {
+      "step": 403,
+      "action": 3,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 130,
+      "flag_get": false
+    },
+    {
+      "step": 404,
+      "action": 2,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 129,
+      "flag_get": false
+    },
+    {
+      "step": 405,
+      "action": 2,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 117,
+      "flag_get": false
+    },
+    {
+      "step": 406,
+      "action": 2,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 97,
+      "flag_get": false
+    },
+    {
+      "step": 407,
+      "action": 2,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 408,
+      "action": 2,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 409,
+      "action": 2,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 410,
+      "action": 2,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 411,
+      "action": 2,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 412,
+      "action": 2,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 413,
+      "action": 2,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 414,
+      "action": 2,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 415,
+      "action": 2,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 416,
+      "action": 2,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 417,
+      "action": 3,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 418,
+      "action": 2,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 419,
+      "action": 2,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 420,
+      "action": 2,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 122,
+      "flag_get": false
+    },
+    {
+      "step": 421,
+      "action": 2,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 132,
+      "flag_get": false
+    },
+    {
+      "step": 422,
+      "action": 2,
+      "x_pos": 2226,
+      "x_pos_screen": 148,
+      "y_pos": 139,
+      "flag_get": false
+    },
+    {
+      "step": 423,
+      "action": 2,
+      "x_pos": 2228,
+      "x_pos_screen": 150,
+      "y_pos": 142,
+      "flag_get": false
+    },
+    {
+      "step": 424,
+      "action": 2,
+      "x_pos": 2230,
+      "x_pos_screen": 152,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 425,
+      "action": 2,
+      "x_pos": 2234,
+      "x_pos_screen": 154,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 426,
+      "action": 0,
+      "x_pos": 2238,
+      "x_pos_screen": 154,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 427,
+      "action": 0,
+      "x_pos": 2241,
+      "x_pos_screen": 154,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 428,
+      "action": 0,
+      "x_pos": 2243,
+      "x_pos_screen": 154,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 429,
+      "action": 0,
+      "x_pos": 2244,
+      "x_pos_screen": 154,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 430,
+      "action": 0,
+      "x_pos": 2244,
+      "x_pos_screen": 154,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 431,
+      "action": 2,
+      "x_pos": 2244,
+      "x_pos_screen": 154,
+      "y_pos": 157,
+      "flag_get": false
+    },
+    {
+      "step": 432,
+      "action": 0,
+      "x_pos": 2245,
+      "x_pos_screen": 154,
+      "y_pos": 172,
+      "flag_get": false
+    },
+    {
+      "step": 433,
+      "action": 0,
+      "x_pos": 2246,
+      "x_pos_screen": 154,
+      "y_pos": 176,
+      "flag_get": false
+    },
+    {
+      "step": 434,
+      "action": 0,
+      "x_pos": 2247,
+      "x_pos_screen": 154,
+      "y_pos": 170,
+      "flag_get": false
+    },
+    {
+      "step": 435,
+      "action": 0,
+      "x_pos": 2248,
+      "x_pos_screen": 154,
+      "y_pos": 153,
+      "flag_get": false
+    },
+    {
+      "step": 436,
+      "action": 4,
+      "x_pos": 2250,
+      "x_pos_screen": 154,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 437,
+      "action": 4,
+      "x_pos": 2253,
+      "x_pos_screen": 154,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 438,
+      "action": 0,
+      "x_pos": 2257,
+      "x_pos_screen": 154,
+      "y_pos": 139,
+      "flag_get": false
+    },
+    {
+      "step": 439,
+      "action": 0,
+      "x_pos": 2261,
+      "x_pos_screen": 154,
+      "y_pos": 127,
+      "flag_get": false
+    },
+    {
+      "step": 440,
+      "action": 0,
+      "x_pos": 2265,
+      "x_pos_screen": 154,
+      "y_pos": 127,
+      "flag_get": false
+    },
+    {
+      "step": 441,
+      "action": 4,
+      "x_pos": 2268,
+      "x_pos_screen": 154,
+      "y_pos": 141,
+      "flag_get": false
+    },
+    {
+      "step": 442,
+      "action": 4,
+      "x_pos": 2273,
+      "x_pos_screen": 154,
+      "y_pos": 157,
+      "flag_get": false
+    },
+    {
+      "step": 443,
+      "action": 4,
+      "x_pos": 2278,
+      "x_pos_screen": 154,
+      "y_pos": 170,
+      "flag_get": false
+    },
+    {
+      "step": 444,
+      "action": 4,
+      "x_pos": 2284,
+      "x_pos_screen": 154,
+      "y_pos": 180,
+      "flag_get": false
+    },
+    {
+      "step": 445,
+      "action": 0,
+      "x_pos": 2291,
+      "x_pos_screen": 154,
+      "y_pos": 185,
+      "flag_get": false
+    },
+    {
+      "step": 446,
+      "action": 0,
+      "x_pos": 2298,
+      "x_pos_screen": 154,
+      "y_pos": 181,
+      "flag_get": false
+    },
+    {
+      "step": 447,
+      "action": 0,
+      "x_pos": 2305,
+      "x_pos_screen": 154,
+      "y_pos": 165,
+      "flag_get": false
+    },
+    {
+      "step": 448,
+      "action": 0,
+      "x_pos": 2312,
+      "x_pos_screen": 154,
+      "y_pos": 144,
+      "flag_get": false
+    },
+    {
+      "step": 449,
+      "action": 0,
+      "x_pos": 2319,
+      "x_pos_screen": 154,
+      "y_pos": 124,
+      "flag_get": false
+    },
+    {
+      "step": 450,
+      "action": 0,
+      "x_pos": 2326,
+      "x_pos_screen": 154,
+      "y_pos": 104,
+      "flag_get": false
+    },
+    {
+      "step": 451,
+      "action": 0,
+      "x_pos": 2333,
+      "x_pos_screen": 154,
+      "y_pos": 84,
+      "flag_get": false
+    },
+    {
+      "step": 452,
+      "action": 0,
+      "x_pos": 2340,
+      "x_pos_screen": 154,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 453,
+      "action": 4,
+      "x_pos": 2346,
+      "x_pos_screen": 154,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 454,
+      "action": 0,
+      "x_pos": 2353,
+      "x_pos_screen": 154,
+      "y_pos": 108,
+      "flag_get": false
+    },
+    {
+      "step": 455,
+      "action": 0,
+      "x_pos": 2360,
+      "x_pos_screen": 154,
+      "y_pos": 114,
+      "flag_get": false
+    },
+    {
+      "step": 456,
+      "action": 0,
+      "x_pos": 2367,
+      "x_pos_screen": 154,
+      "y_pos": 112,
+      "flag_get": false
+    },
+    {
+      "step": 457,
+      "action": 0,
+      "x_pos": 2371,
+      "x_pos_screen": 152,
+      "y_pos": 100,
+      "flag_get": false
+    },
+    {
+      "step": 458,
+      "action": 0,
+      "x_pos": 2370,
+      "x_pos_screen": 151,
+      "y_pos": 95,
+      "flag_get": false
+    },
+    {
+      "step": 459,
+      "action": 0,
+      "x_pos": 2370,
+      "x_pos_screen": 151,
+      "y_pos": 95,
+      "flag_get": false
+    },
+    {
+      "step": 460,
+      "action": 0,
+      "x_pos": 2370,
+      "x_pos_screen": 151,
+      "y_pos": 95,
+      "flag_get": false
+    },
+    {
+      "step": 461,
+      "action": 0,
+      "x_pos": 2370,
+      "x_pos_screen": 151,
+      "y_pos": 95,
+      "flag_get": false
+    },
+    {
+      "step": 462,
+      "action": 4,
+      "x_pos": 2370,
+      "x_pos_screen": 151,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 463,
+      "action": 0,
+      "x_pos": 2371,
+      "x_pos_screen": 151,
+      "y_pos": 124,
+      "flag_get": false
+    },
+    {
+      "step": 464,
+      "action": 4,
+      "x_pos": 2372,
+      "x_pos_screen": 151,
+      "y_pos": 128,
+      "flag_get": false
+    },
+    {
+      "step": 465,
+      "action": 0,
+      "x_pos": 2374,
+      "x_pos_screen": 151,
+      "y_pos": 122,
+      "flag_get": false
+    },
+    {
+      "step": 466,
+      "action": 0,
+      "x_pos": 2376,
+      "x_pos_screen": 151,
+      "y_pos": 111,
+      "flag_get": false
+    },
+    {
+      "step": 467,
+      "action": 0,
+      "x_pos": 2378,
+      "x_pos_screen": 151,
+      "y_pos": 111,
+      "flag_get": false
+    },
+    {
+      "step": 468,
+      "action": 4,
+      "x_pos": 2378,
+      "x_pos_screen": 151,
+      "y_pos": 125,
+      "flag_get": false
+    },
+    {
+      "step": 469,
+      "action": 4,
+      "x_pos": 2380,
+      "x_pos_screen": 151,
+      "y_pos": 141,
+      "flag_get": false
+    },
+    {
+      "step": 470,
+      "action": 4,
+      "x_pos": 2383,
+      "x_pos_screen": 151,
+      "y_pos": 154,
+      "flag_get": false
+    },
+    {
+      "step": 471,
+      "action": 4,
+      "x_pos": 2387,
+      "x_pos_screen": 151,
+      "y_pos": 164,
+      "flag_get": false
+    },
+    {
+      "step": 472,
+      "action": 2,
+      "x_pos": 2392,
+      "x_pos_screen": 151,
+      "y_pos": 171,
+      "flag_get": false
+    },
+    {
+      "step": 473,
+      "action": 1,
+      "x_pos": 2398,
+      "x_pos_screen": 151,
+      "y_pos": 173,
+      "flag_get": false
+    },
+    {
+      "step": 474,
+      "action": 1,
+      "x_pos": 2405,
+      "x_pos_screen": 151,
+      "y_pos": 165,
+      "flag_get": false
+    },
+    {
+      "step": 475,
+      "action": 1,
+      "x_pos": 2412,
+      "x_pos_screen": 151,
+      "y_pos": 148,
+      "flag_get": false
+    },
+    {
+      "step": 476,
+      "action": 1,
+      "x_pos": 2419,
+      "x_pos_screen": 151,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 477,
+      "action": 1,
+      "x_pos": 2426,
+      "x_pos_screen": 151,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 478,
+      "action": 0,
+      "x_pos": 2432,
+      "x_pos_screen": 151,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 479,
+      "action": 2,
+      "x_pos": 2439,
+      "x_pos_screen": 151,
+      "y_pos": 157,
+      "flag_get": false
+    },
+    {
+      "step": 480,
+      "action": 2,
+      "x_pos": 2446,
+      "x_pos_screen": 151,
+      "y_pos": 173,
+      "flag_get": false
+    },
+    {
+      "step": 481,
+      "action": 1,
+      "x_pos": 2453,
+      "x_pos_screen": 151,
+      "y_pos": 185,
+      "flag_get": false
+    },
+    {
+      "step": 482,
+      "action": 2,
+      "x_pos": 2460,
+      "x_pos_screen": 151,
+      "y_pos": 189,
+      "flag_get": false
+    },
+    {
+      "step": 483,
+      "action": 2,
+      "x_pos": 2467,
+      "x_pos_screen": 151,
+      "y_pos": 183,
+      "flag_get": false
+    },
+    {
+      "step": 484,
+      "action": 0,
+      "x_pos": 2474,
+      "x_pos_screen": 151,
+      "y_pos": 169,
+      "flag_get": false
+    },
+    {
+      "step": 485,
+      "action": 0,
+      "x_pos": 2481,
+      "x_pos_screen": 151,
+      "y_pos": 149,
+      "flag_get": false
+    },
+    {
+      "step": 486,
+      "action": 0,
+      "x_pos": 2487,
+      "x_pos_screen": 151,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 487,
+      "action": 0,
+      "x_pos": 2493,
+      "x_pos_screen": 151,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 488,
+      "action": 0,
+      "x_pos": 2499,
+      "x_pos_screen": 151,
+      "y_pos": 139,
+      "flag_get": false
+    },
+    {
+      "step": 489,
+      "action": 4,
+      "x_pos": 2505,
+      "x_pos_screen": 151,
+      "y_pos": 127,
+      "flag_get": false
+    },
+    {
+      "step": 490,
+      "action": 0,
+      "x_pos": 2511,
+      "x_pos_screen": 151,
+      "y_pos": 127,
+      "flag_get": false
+    },
+    {
+      "step": 491,
+      "action": 0,
+      "x_pos": 2517,
+      "x_pos_screen": 151,
+      "y_pos": 121,
+      "flag_get": false
+    },
+    {
+      "step": 492,
+      "action": 0,
+      "x_pos": 2523,
+      "x_pos_screen": 151,
+      "y_pos": 111,
+      "flag_get": false
+    },
+    {
+      "step": 493,
+      "action": 0,
+      "x_pos": 2528,
+      "x_pos_screen": 151,
+      "y_pos": 111,
+      "flag_get": false
+    },
+    {
+      "step": 494,
+      "action": 0,
+      "x_pos": 2533,
+      "x_pos_screen": 151,
+      "y_pos": 103,
+      "flag_get": false
+    },
+    {
+      "step": 495,
+      "action": 0,
+      "x_pos": 2538,
+      "x_pos_screen": 151,
+      "y_pos": 95,
+      "flag_get": false
+    },
+    {
+      "step": 496,
+      "action": 0,
+      "x_pos": 2543,
+      "x_pos_screen": 151,
+      "y_pos": 95,
+      "flag_get": false
+    },
+    {
+      "step": 497,
+      "action": 0,
+      "x_pos": 2547,
+      "x_pos_screen": 151,
+      "y_pos": 87,
+      "flag_get": false
+    },
+    {
+      "step": 498,
+      "action": 0,
+      "x_pos": 2551,
+      "x_pos_screen": 151,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 499,
+      "action": 0,
+      "x_pos": 2555,
+      "x_pos_screen": 151,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 500,
+      "action": 4,
+      "x_pos": 2558,
+      "x_pos_screen": 151,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 501,
+      "action": 4,
+      "x_pos": 2562,
+      "x_pos_screen": 151,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 502,
+      "action": 4,
+      "x_pos": 2567,
+      "x_pos_screen": 151,
+      "y_pos": 122,
+      "flag_get": false
+    },
+    {
+      "step": 503,
+      "action": 4,
+      "x_pos": 2573,
+      "x_pos_screen": 151,
+      "y_pos": 132,
+      "flag_get": false
+    },
+    {
+      "step": 504,
+      "action": 1,
+      "x_pos": 2580,
+      "x_pos_screen": 151,
+      "y_pos": 137,
+      "flag_get": false
+    },
+    {
+      "step": 505,
+      "action": 1,
+      "x_pos": 2587,
+      "x_pos_screen": 151,
+      "y_pos": 133,
+      "flag_get": false
+    },
+    {
+      "step": 506,
+      "action": 3,
+      "x_pos": 2594,
+      "x_pos_screen": 151,
+      "y_pos": 117,
+      "flag_get": false
+    },
+    {
+      "step": 507,
+      "action": 3,
+      "x_pos": 2601,
+      "x_pos_screen": 151,
+      "y_pos": 111,
+      "flag_get": false
+    },
+    {
+      "step": 508,
+      "action": 3,
+      "x_pos": 2610,
+      "x_pos_screen": 151,
+      "y_pos": 111,
+      "flag_get": false
+    },
+    {
+      "step": 509,
+      "action": 2,
+      "x_pos": 2621,
+      "x_pos_screen": 151,
+      "y_pos": 129,
+      "flag_get": false
+    },
+    {
+      "step": 510,
+      "action": 4,
+      "x_pos": 2633,
+      "x_pos_screen": 151,
+      "y_pos": 149,
+      "flag_get": false
+    },
+    {
+      "step": 511,
+      "action": 1,
+      "x_pos": 2645,
+      "x_pos_screen": 151,
+      "y_pos": 164,
+      "flag_get": false
+    },
+    {
+      "step": 512,
+      "action": 4,
+      "x_pos": 2657,
+      "x_pos_screen": 151,
+      "y_pos": 166,
+      "flag_get": false
+    },
+    {
+      "step": 513,
+      "action": 1,
+      "x_pos": 2669,
+      "x_pos_screen": 151,
+      "y_pos": 155,
+      "flag_get": false
+    },
+    {
+      "step": 514,
+      "action": 1,
+      "x_pos": 2680,
+      "x_pos_screen": 151,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 515,
+      "action": 1,
+      "x_pos": 2687,
+      "x_pos_screen": 151,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 516,
+      "action": 1,
+      "x_pos": 2694,
+      "x_pos_screen": 151,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 517,
+      "action": 1,
+      "x_pos": 2701,
+      "x_pos_screen": 151,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 518,
+      "action": 1,
+      "x_pos": 2708,
+      "x_pos_screen": 151,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 519,
+      "action": 1,
+      "x_pos": 2715,
+      "x_pos_screen": 151,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 520,
+      "action": 1,
+      "x_pos": 2722,
+      "x_pos_screen": 151,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 521,
+      "action": 1,
+      "x_pos": 2729,
+      "x_pos_screen": 151,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 522,
+      "action": 1,
+      "x_pos": 2736,
+      "x_pos_screen": 151,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 523,
+      "action": 0,
+      "x_pos": 2743,
+      "x_pos_screen": 151,
+      "y_pos": 143,
+      "flag_get": false
+    },
+    {
+      "step": 524,
+      "action": 4,
+      "x_pos": 2749,
+      "x_pos_screen": 151,
+      "y_pos": 157,
+      "flag_get": false
+    },
+    {
+      "step": 525,
+      "action": 2,
+      "x_pos": 2756,
+      "x_pos_screen": 151,
+      "y_pos": 173,
+      "flag_get": false
+    },
+    {
+      "step": 526,
+      "action": 1,
+      "x_pos": 2763,
+      "x_pos_screen": 151,
+      "y_pos": 185,
+      "flag_get": false
+    },
+    {
+      "step": 527,
+      "action": 1,
+      "x_pos": 2770,
+      "x_pos_screen": 151,
+      "y_pos": 189,
+      "flag_get": false
+    },
+    {
+      "step": 528,
+      "action": 4,
+      "x_pos": 2777,
+      "x_pos_screen": 151,
+      "y_pos": 183,
+      "flag_get": false
+    },
+    {
+      "step": 529,
+      "action": 4,
+      "x_pos": 2784,
+      "x_pos_screen": 151,
+      "y_pos": 169,
+      "flag_get": false
+    },
+    {
+      "step": 530,
+      "action": 4,
+      "x_pos": 2791,
+      "x_pos_screen": 151,
+      "y_pos": 149,
+      "flag_get": false
+    },
+    {
+      "step": 531,
+      "action": 4,
+      "x_pos": 2798,
+      "x_pos_screen": 151,
+      "y_pos": 129,
+      "flag_get": false
+    },
+    {
+      "step": 532,
+      "action": 0,
+      "x_pos": 2805,
+      "x_pos_screen": 151,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 533,
+      "action": 0,
+      "x_pos": 2812,
+      "x_pos_screen": 151,
+      "y_pos": 89,
+      "flag_get": false
+    },
+    {
+      "step": 534,
+      "action": 0,
+      "x_pos": 2819,
+      "x_pos_screen": 151,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 535,
+      "action": 0,
+      "x_pos": 2825,
+      "x_pos_screen": 151,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 536,
+      "action": 0,
+      "x_pos": 2830,
+      "x_pos_screen": 151,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 537,
+      "action": 0,
+      "x_pos": 2833,
+      "x_pos_screen": 151,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 538,
+      "action": 0,
+      "x_pos": 2836,
+      "x_pos_screen": 151,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 539,
+      "action": 2,
+      "x_pos": 2839,
+      "x_pos_screen": 151,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 540,
+      "action": 2,
+      "x_pos": 2843,
+      "x_pos_screen": 151,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 541,
+      "action": 2,
+      "x_pos": 2847,
+      "x_pos_screen": 151,
+      "y_pos": 122,
+      "flag_get": false
+    },
+    {
+      "step": 542,
+      "action": 0,
+      "x_pos": 2852,
+      "x_pos_screen": 151,
+      "y_pos": 130,
+      "flag_get": false
+    },
+    {
+      "step": 543,
+      "action": 0,
+      "x_pos": 2858,
+      "x_pos_screen": 151,
+      "y_pos": 129,
+      "flag_get": false
+    },
+    {
+      "step": 544,
+      "action": 3,
+      "x_pos": 2863,
+      "x_pos_screen": 151,
+      "y_pos": 117,
+      "flag_get": false
+    },
+    {
+      "step": 545,
+      "action": 2,
+      "x_pos": 2870,
+      "x_pos_screen": 151,
+      "y_pos": 111,
+      "flag_get": false
+    },
+    {
+      "step": 546,
+      "action": 2,
+      "x_pos": 2877,
+      "x_pos_screen": 151,
+      "y_pos": 111,
+      "flag_get": false
+    },
+    {
+      "step": 547,
+      "action": 2,
+      "x_pos": 2884,
+      "x_pos_screen": 151,
+      "y_pos": 111,
+      "flag_get": false
+    },
+    {
+      "step": 548,
+      "action": 2,
+      "x_pos": 2891,
+      "x_pos_screen": 151,
+      "y_pos": 111,
+      "flag_get": false
+    },
+    {
+      "step": 549,
+      "action": 2,
+      "x_pos": 2898,
+      "x_pos_screen": 151,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 550,
+      "action": 2,
+      "x_pos": 2905,
+      "x_pos_screen": 151,
+      "y_pos": 111,
+      "flag_get": false
+    },
+    {
+      "step": 551,
+      "action": 0,
+      "x_pos": 2912,
+      "x_pos_screen": 151,
+      "y_pos": 111,
+      "flag_get": false
+    },
+    {
+      "step": 552,
+      "action": 4,
+      "x_pos": 2914,
+      "x_pos_screen": 150,
+      "y_pos": 125,
+      "flag_get": false
+    },
+    {
+      "step": 553,
+      "action": 4,
+      "x_pos": 2915,
+      "x_pos_screen": 151,
+      "y_pos": 141,
+      "flag_get": false
+    },
+    {
+      "step": 554,
+      "action": 4,
+      "x_pos": 2916,
+      "x_pos_screen": 152,
+      "y_pos": 155,
+      "flag_get": false
+    },
+    {
+      "step": 555,
+      "action": 4,
+      "x_pos": 2919,
+      "x_pos_screen": 155,
+      "y_pos": 165,
+      "flag_get": false
+    },
+    {
+      "step": 556,
+      "action": 2,
+      "x_pos": 2923,
+      "x_pos_screen": 156,
+      "y_pos": 173,
+      "flag_get": false
+    },
+    {
+      "step": 557,
+      "action": 2,
+      "x_pos": 2928,
+      "x_pos_screen": 156,
+      "y_pos": 177,
+      "flag_get": false
+    },
+    {
+      "step": 558,
+      "action": 2,
+      "x_pos": 2934,
+      "x_pos_screen": 156,
+      "y_pos": 179,
+      "flag_get": false
+    },
+    {
+      "step": 559,
+      "action": 1,
+      "x_pos": 2941,
+      "x_pos_screen": 156,
+      "y_pos": 177,
+      "flag_get": false
+    },
+    {
+      "step": 560,
+      "action": 1,
+      "x_pos": 2948,
+      "x_pos_screen": 156,
+      "y_pos": 167,
+      "flag_get": false
+    },
+    {
+      "step": 561,
+      "action": 1,
+      "x_pos": 2955,
+      "x_pos_screen": 156,
+      "y_pos": 159,
+      "flag_get": false
+    },
+    {
+      "step": 562,
+      "action": 1,
+      "x_pos": 2962,
+      "x_pos_screen": 156,
+      "y_pos": 159,
+      "flag_get": false
+    },
+    {
+      "step": 563,
+      "action": 1,
+      "x_pos": 2962,
+      "x_pos_screen": 155,
+      "y_pos": 159,
+      "flag_get": false
+    },
+    {
+      "step": 564,
+      "action": 2,
+      "x_pos": 2962,
+      "x_pos_screen": 155,
+      "y_pos": 173,
+      "flag_get": false
+    },
+    {
+      "step": 565,
+      "action": 0,
+      "x_pos": 2963,
+      "x_pos_screen": 156,
+      "y_pos": 188,
+      "flag_get": false
+    },
+    {
+      "step": 566,
+      "action": 0,
+      "x_pos": 2965,
+      "x_pos_screen": 158,
+      "y_pos": 192,
+      "flag_get": false
+    },
+    {
+      "step": 567,
+      "action": 0,
+      "x_pos": 2966,
+      "x_pos_screen": 158,
+      "y_pos": 186,
+      "flag_get": false
+    },
+    {
+      "step": 568,
+      "action": 0,
+      "x_pos": 2967,
+      "x_pos_screen": 158,
+      "y_pos": 175,
+      "flag_get": false
+    },
+    {
+      "step": 569,
+      "action": 0,
+      "x_pos": 2967,
+      "x_pos_screen": 158,
+      "y_pos": 175,
+      "flag_get": false
+    },
+    {
+      "step": 570,
+      "action": 4,
+      "x_pos": 2968,
+      "x_pos_screen": 158,
+      "y_pos": 189,
+      "flag_get": false
+    },
+    {
+      "step": 571,
+      "action": 0,
+      "x_pos": 2969,
+      "x_pos_screen": 158,
+      "y_pos": 204,
+      "flag_get": false
+    },
+    {
+      "step": 572,
+      "action": 0,
+      "x_pos": 2970,
+      "x_pos_screen": 158,
+      "y_pos": 208,
+      "flag_get": false
+    },
+    {
+      "step": 573,
+      "action": 2,
+      "x_pos": 2971,
+      "x_pos_screen": 158,
+      "y_pos": 202,
+      "flag_get": false
+    },
+    {
+      "step": 574,
+      "action": 0,
+      "x_pos": 2973,
+      "x_pos_screen": 158,
+      "y_pos": 185,
+      "flag_get": false
+    },
+    {
+      "step": 575,
+      "action": 0,
+      "x_pos": 2975,
+      "x_pos_screen": 158,
+      "y_pos": 175,
+      "flag_get": false
+    },
+    {
+      "step": 576,
+      "action": 0,
+      "x_pos": 2976,
+      "x_pos_screen": 158,
+      "y_pos": 175,
+      "flag_get": false
+    },
+    {
+      "step": 577,
+      "action": 0,
+      "x_pos": 2976,
+      "x_pos_screen": 158,
+      "y_pos": 175,
+      "flag_get": false
+    },
+    {
+      "step": 578,
+      "action": 0,
+      "x_pos": 2976,
+      "x_pos_screen": 158,
+      "y_pos": 175,
+      "flag_get": false
+    },
+    {
+      "step": 579,
+      "action": 0,
+      "x_pos": 2976,
+      "x_pos_screen": 158,
+      "y_pos": 175,
+      "flag_get": false
+    },
+    {
+      "step": 580,
+      "action": 0,
+      "x_pos": 2976,
+      "x_pos_screen": 158,
+      "y_pos": 175,
+      "flag_get": false
+    },
+    {
+      "step": 581,
+      "action": 4,
+      "x_pos": 2976,
+      "x_pos_screen": 158,
+      "y_pos": 189,
+      "flag_get": false
+    },
+    {
+      "step": 582,
+      "action": 0,
+      "x_pos": 2977,
+      "x_pos_screen": 158,
+      "y_pos": 204,
+      "flag_get": false
+    },
+    {
+      "step": 583,
+      "action": 0,
+      "x_pos": 2978,
+      "x_pos_screen": 158,
+      "y_pos": 208,
+      "flag_get": false
+    },
+    {
+      "step": 584,
+      "action": 0,
+      "x_pos": 2979,
+      "x_pos_screen": 158,
+      "y_pos": 202,
+      "flag_get": false
+    },
+    {
+      "step": 585,
+      "action": 2,
+      "x_pos": 2981,
+      "x_pos_screen": 158,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 586,
+      "action": 0,
+      "x_pos": 2982,
+      "x_pos_screen": 158,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 587,
+      "action": 0,
+      "x_pos": 2983,
+      "x_pos_screen": 158,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 588,
+      "action": 0,
+      "x_pos": 2983,
+      "x_pos_screen": 158,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 589,
+      "action": 0,
+      "x_pos": 2983,
+      "x_pos_screen": 158,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 590,
+      "action": 0,
+      "x_pos": 2983,
+      "x_pos_screen": 158,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 591,
+      "action": 0,
+      "x_pos": 2983,
+      "x_pos_screen": 158,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 592,
+      "action": 2,
+      "x_pos": 2983,
+      "x_pos_screen": 158,
+      "y_pos": 205,
+      "flag_get": false
+    },
+    {
+      "step": 593,
+      "action": 0,
+      "x_pos": 2984,
+      "x_pos_screen": 158,
+      "y_pos": 220,
+      "flag_get": false
+    },
+    {
+      "step": 594,
+      "action": 0,
+      "x_pos": 2985,
+      "x_pos_screen": 158,
+      "y_pos": 224,
+      "flag_get": false
+    },
+    {
+      "step": 595,
+      "action": 0,
+      "x_pos": 2986,
+      "x_pos_screen": 158,
+      "y_pos": 218,
+      "flag_get": false
+    },
+    {
+      "step": 596,
+      "action": 0,
+      "x_pos": 2987,
+      "x_pos_screen": 158,
+      "y_pos": 201,
+      "flag_get": false
+    },
+    {
+      "step": 597,
+      "action": 0,
+      "x_pos": 2988,
+      "x_pos_screen": 158,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 598,
+      "action": 2,
+      "x_pos": 2989,
+      "x_pos_screen": 158,
+      "y_pos": 205,
+      "flag_get": false
+    },
+    {
+      "step": 599,
+      "action": 0,
+      "x_pos": 2990,
+      "x_pos_screen": 158,
+      "y_pos": 220,
+      "flag_get": false
+    },
+    {
+      "step": 600,
+      "action": 0,
+      "x_pos": 2991,
+      "x_pos_screen": 158,
+      "y_pos": 224,
+      "flag_get": false
+    },
+    {
+      "step": 601,
+      "action": 0,
+      "x_pos": 2993,
+      "x_pos_screen": 158,
+      "y_pos": 218,
+      "flag_get": false
+    },
+    {
+      "step": 602,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 158,
+      "y_pos": 201,
+      "flag_get": false
+    },
+    {
+      "step": 603,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 604,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 605,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 606,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 607,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 608,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 609,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 610,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 611,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 612,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 613,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 614,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 615,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 616,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 617,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 618,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 619,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 620,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 621,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 622,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 623,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 624,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 625,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 626,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 627,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 628,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 629,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 630,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 631,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 632,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 633,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 634,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 635,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 636,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 637,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 638,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 639,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 640,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 641,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 642,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 643,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 644,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 645,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 646,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 647,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 648,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 649,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 650,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 651,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 652,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 653,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 654,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 655,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 656,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 657,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 658,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 659,
+      "action": 0,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 191,
+      "flag_get": false
+    },
+    {
+      "step": 660,
+      "action": 4,
+      "x_pos": 2994,
+      "x_pos_screen": 157,
+      "y_pos": 205,
+      "flag_get": false
+    },
+    {
+      "step": 661,
+      "action": 0,
+      "x_pos": 2995,
+      "x_pos_screen": 157,
+      "y_pos": 220,
+      "flag_get": false
+    },
+    {
+      "step": 662,
+      "action": 0,
+      "x_pos": 2996,
+      "x_pos_screen": 157,
+      "y_pos": 224,
+      "flag_get": false
+    },
+    {
+      "step": 663,
+      "action": 0,
+      "x_pos": 2997,
+      "x_pos_screen": 157,
+      "y_pos": 218,
+      "flag_get": false
+    },
+    {
+      "step": 664,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 665,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 666,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 667,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 668,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 669,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 670,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 671,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 672,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 673,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 674,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 675,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 676,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 677,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 678,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 679,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 680,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 681,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 682,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 683,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 684,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 685,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 686,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 687,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 688,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 689,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 690,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 691,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 692,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 693,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 694,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 695,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 696,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 697,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 698,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 699,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 700,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 701,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 702,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 703,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 704,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 705,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 706,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 707,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 708,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 709,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 710,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 711,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 712,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 713,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 714,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 715,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 716,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 717,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 718,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 719,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 720,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 721,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 722,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 723,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 724,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 725,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 726,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 727,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 728,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 729,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 730,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 731,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 732,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 733,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 734,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 735,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 736,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 737,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 738,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 739,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 740,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 741,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 742,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 743,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 744,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 745,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 746,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 747,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 748,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 749,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 750,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 751,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 752,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 753,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 754,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 755,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 756,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 757,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 758,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 759,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 760,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 761,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 762,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 763,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 764,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 765,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 766,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 767,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 768,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 769,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 770,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 771,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 772,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 773,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 774,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 775,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 776,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 777,
+      "action": 0,
+      "x_pos": 2998,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 778,
+      "action": 3,
+      "x_pos": 2999,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 779,
+      "action": 0,
+      "x_pos": 3000,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 780,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 781,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 782,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 783,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 784,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 785,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 786,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 787,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 788,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 789,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 790,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 791,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 792,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 793,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 794,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 795,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 796,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 797,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 798,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 799,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 800,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 801,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 802,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 803,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 804,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 805,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 806,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 807,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 808,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 809,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 810,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 811,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 812,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 813,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 814,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 815,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 816,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 817,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 818,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 819,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 820,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 821,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 822,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 823,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 824,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 825,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 826,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 827,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 828,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 829,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 830,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 831,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 832,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 833,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 834,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 835,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 836,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 837,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 838,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 839,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 840,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 841,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 842,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 843,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 844,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 845,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 846,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 847,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 848,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 849,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 850,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 851,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 852,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 853,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 854,
+      "action": 0,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 855,
+      "action": 2,
+      "x_pos": 3001,
+      "x_pos_screen": 157,
+      "y_pos": 221,
+      "flag_get": false
+    },
+    {
+      "step": 856,
+      "action": 0,
+      "x_pos": 3002,
+      "x_pos_screen": 157,
+      "y_pos": 236,
+      "flag_get": false
+    },
+    {
+      "step": 857,
+      "action": 0,
+      "x_pos": 3003,
+      "x_pos_screen": 157,
+      "y_pos": 240,
+      "flag_get": false
+    },
+    {
+      "step": 858,
+      "action": 0,
+      "x_pos": 3004,
+      "x_pos_screen": 157,
+      "y_pos": 234,
+      "flag_get": false
+    },
+    {
+      "step": 859,
+      "action": 0,
+      "x_pos": 3005,
+      "x_pos_screen": 157,
+      "y_pos": 217,
+      "flag_get": false
+    },
+    {
+      "step": 860,
+      "action": 0,
+      "x_pos": 3006,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 861,
+      "action": 0,
+      "x_pos": 3006,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 862,
+      "action": 0,
+      "x_pos": 3006,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 863,
+      "action": 0,
+      "x_pos": 3006,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 864,
+      "action": 0,
+      "x_pos": 3006,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 865,
+      "action": 0,
+      "x_pos": 3006,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 866,
+      "action": 0,
+      "x_pos": 3006,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 867,
+      "action": 0,
+      "x_pos": 3006,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 868,
+      "action": 0,
+      "x_pos": 3006,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 869,
+      "action": 0,
+      "x_pos": 3006,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 870,
+      "action": 0,
+      "x_pos": 3006,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 871,
+      "action": 0,
+      "x_pos": 3006,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 872,
+      "action": 4,
+      "x_pos": 3006,
+      "x_pos_screen": 157,
+      "y_pos": 221,
+      "flag_get": false
+    },
+    {
+      "step": 873,
+      "action": 0,
+      "x_pos": 3007,
+      "x_pos_screen": 157,
+      "y_pos": 236,
+      "flag_get": false
+    },
+    {
+      "step": 874,
+      "action": 0,
+      "x_pos": 3008,
+      "x_pos_screen": 157,
+      "y_pos": 240,
+      "flag_get": false
+    },
+    {
+      "step": 875,
+      "action": 0,
+      "x_pos": 3009,
+      "x_pos_screen": 157,
+      "y_pos": 234,
+      "flag_get": false
+    },
+    {
+      "step": 876,
+      "action": 0,
+      "x_pos": 3010,
+      "x_pos_screen": 157,
+      "y_pos": 217,
+      "flag_get": false
+    },
+    {
+      "step": 877,
+      "action": 0,
+      "x_pos": 3011,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 878,
+      "action": 0,
+      "x_pos": 3011,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 879,
+      "action": 0,
+      "x_pos": 3011,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 880,
+      "action": 0,
+      "x_pos": 3011,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 881,
+      "action": 4,
+      "x_pos": 3011,
+      "x_pos_screen": 157,
+      "y_pos": 221,
+      "flag_get": false
+    },
+    {
+      "step": 882,
+      "action": 4,
+      "x_pos": 3013,
+      "x_pos_screen": 157,
+      "y_pos": 237,
+      "flag_get": false
+    },
+    {
+      "step": 883,
+      "action": 0,
+      "x_pos": 3015,
+      "x_pos_screen": 157,
+      "y_pos": 249,
+      "flag_get": false
+    },
+    {
+      "step": 884,
+      "action": 0,
+      "x_pos": 3017,
+      "x_pos_screen": 157,
+      "y_pos": 250,
+      "flag_get": false
+    },
+    {
+      "step": 885,
+      "action": 0,
+      "x_pos": 3019,
+      "x_pos_screen": 157,
+      "y_pos": 241,
+      "flag_get": false
+    },
+    {
+      "step": 886,
+      "action": 0,
+      "x_pos": 3021,
+      "x_pos_screen": 157,
+      "y_pos": 222,
+      "flag_get": false
+    },
+    {
+      "step": 887,
+      "action": 0,
+      "x_pos": 3023,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 888,
+      "action": 0,
+      "x_pos": 3024,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 889,
+      "action": 0,
+      "x_pos": 3024,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 890,
+      "action": 0,
+      "x_pos": 3024,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 891,
+      "action": 0,
+      "x_pos": 3024,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 892,
+      "action": 4,
+      "x_pos": 3024,
+      "x_pos_screen": 157,
+      "y_pos": 221,
+      "flag_get": false
+    },
+    {
+      "step": 893,
+      "action": 0,
+      "x_pos": 3025,
+      "x_pos_screen": 157,
+      "y_pos": 236,
+      "flag_get": false
+    },
+    {
+      "step": 894,
+      "action": 0,
+      "x_pos": 3026,
+      "x_pos_screen": 157,
+      "y_pos": 240,
+      "flag_get": false
+    },
+    {
+      "step": 895,
+      "action": 0,
+      "x_pos": 3027,
+      "x_pos_screen": 157,
+      "y_pos": 234,
+      "flag_get": false
+    },
+    {
+      "step": 896,
+      "action": 2,
+      "x_pos": 3029,
+      "x_pos_screen": 157,
+      "y_pos": 217,
+      "flag_get": false
+    },
+    {
+      "step": 897,
+      "action": 0,
+      "x_pos": 3031,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 898,
+      "action": 0,
+      "x_pos": 3032,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 899,
+      "action": 0,
+      "x_pos": 3032,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 900,
+      "action": 0,
+      "x_pos": 3032,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 901,
+      "action": 0,
+      "x_pos": 3032,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 902,
+      "action": 0,
+      "x_pos": 3032,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 903,
+      "action": 0,
+      "x_pos": 3032,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 904,
+      "action": 0,
+      "x_pos": 3032,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 905,
+      "action": 0,
+      "x_pos": 3032,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 906,
+      "action": 0,
+      "x_pos": 3032,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 907,
+      "action": 0,
+      "x_pos": 3032,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 908,
+      "action": 3,
+      "x_pos": 3032,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 909,
+      "action": 0,
+      "x_pos": 3034,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 910,
+      "action": 0,
+      "x_pos": 3034,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 911,
+      "action": 0,
+      "x_pos": 3034,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 912,
+      "action": 0,
+      "x_pos": 3034,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 913,
+      "action": 0,
+      "x_pos": 3034,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 914,
+      "action": 0,
+      "x_pos": 3034,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 915,
+      "action": 0,
+      "x_pos": 3034,
+      "x_pos_screen": 157,
+      "y_pos": 207,
+      "flag_get": false
+    },
+    {
+      "step": 916,
+      "action": 4,
+      "x_pos": 3034,
+      "x_pos_screen": 157,
+      "y_pos": 221,
+      "flag_get": false
+    },
+    {
+      "step": 917,
+      "action": 0,
+      "x_pos": 3035,
+      "x_pos_screen": 157,
+      "y_pos": 236,
+      "flag_get": false
+    },
+    {
+      "step": 918,
+      "action": 0,
+      "x_pos": 3036,
+      "x_pos_screen": 157,
+      "y_pos": 240,
+      "flag_get": false
+    },
+    {
+      "step": 919,
+      "action": 0,
+      "x_pos": 3037,
+      "x_pos_screen": 157,
+      "y_pos": 234,
+      "flag_get": false
+    },
+    {
+      "step": 920,
+      "action": 0,
+      "x_pos": 3038,
+      "x_pos_screen": 157,
+      "y_pos": 217,
+      "flag_get": false
+    },
+    {
+      "step": 921,
+      "action": 4,
+      "x_pos": 3040,
+      "x_pos_screen": 157,
+      "y_pos": 197,
+      "flag_get": false
+    },
+    {
+      "step": 922,
+      "action": 0,
+      "x_pos": 3042,
+      "x_pos_screen": 157,
+      "y_pos": 177,
+      "flag_get": false
+    },
+    {
+      "step": 923,
+      "action": 4,
+      "x_pos": 3044,
+      "x_pos_screen": 157,
+      "y_pos": 157,
+      "flag_get": false
+    },
+    {
+      "step": 924,
+      "action": 0,
+      "x_pos": 3047,
+      "x_pos_screen": 157,
+      "y_pos": 137,
+      "flag_get": false
+    },
+    {
+      "step": 925,
+      "action": 0,
+      "x_pos": 3050,
+      "x_pos_screen": 157,
+      "y_pos": 117,
+      "flag_get": false
+    },
+    {
+      "step": 926,
+      "action": 0,
+      "x_pos": 3053,
+      "x_pos_screen": 157,
+      "y_pos": 97,
+      "flag_get": false
+    },
+    {
+      "step": 927,
+      "action": 0,
+      "x_pos": 3056,
+      "x_pos_screen": 157,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 928,
+      "action": 0,
+      "x_pos": 3059,
+      "x_pos_screen": 157,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 929,
+      "action": 0,
+      "x_pos": 3060,
+      "x_pos_screen": 157,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 930,
+      "action": 0,
+      "x_pos": 3060,
+      "x_pos_screen": 157,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 931,
+      "action": 0,
+      "x_pos": 3060,
+      "x_pos_screen": 157,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 932,
+      "action": 4,
+      "x_pos": 3061,
+      "x_pos_screen": 157,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 933,
+      "action": 4,
+      "x_pos": 3062,
+      "x_pos_screen": 157,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 934,
+      "action": 0,
+      "x_pos": 3064,
+      "x_pos_screen": 157,
+      "y_pos": 121,
+      "flag_get": false
+    },
+    {
+      "step": 935,
+      "action": 4,
+      "x_pos": 3066,
+      "x_pos_screen": 157,
+      "y_pos": 122,
+      "flag_get": false
+    },
+    {
+      "step": 936,
+      "action": 0,
+      "x_pos": 3069,
+      "x_pos_screen": 157,
+      "y_pos": 113,
+      "flag_get": false
+    },
+    {
+      "step": 937,
+      "action": 0,
+      "x_pos": 3072,
+      "x_pos_screen": 157,
+      "y_pos": 94,
+      "flag_get": false
+    },
+    {
+      "step": 938,
+      "action": 0,
+      "x_pos": 3075,
+      "x_pos_screen": 157,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 939,
+      "action": 2,
+      "x_pos": 3078,
+      "x_pos_screen": 157,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 940,
+      "action": 0,
+      "x_pos": 3082,
+      "x_pos_screen": 157,
+      "y_pos": 108,
+      "flag_get": false
+    },
+    {
+      "step": 941,
+      "action": 0,
+      "x_pos": 3085,
+      "x_pos_screen": 157,
+      "y_pos": 112,
+      "flag_get": false
+    },
+    {
+      "step": 942,
+      "action": 0,
+      "x_pos": 3089,
+      "x_pos_screen": 157,
+      "y_pos": 106,
+      "flag_get": false
+    },
+    {
+      "step": 943,
+      "action": 0,
+      "x_pos": 3092,
+      "x_pos_screen": 157,
+      "y_pos": 89,
+      "flag_get": false
+    },
+    {
+      "step": 944,
+      "action": 0,
+      "x_pos": 3096,
+      "x_pos_screen": 157,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 945,
+      "action": 0,
+      "x_pos": 3098,
+      "x_pos_screen": 157,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 946,
+      "action": 0,
+      "x_pos": 3099,
+      "x_pos_screen": 157,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 947,
+      "action": 4,
+      "x_pos": 3100,
+      "x_pos_screen": 157,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 948,
+      "action": 4,
+      "x_pos": 3103,
+      "x_pos_screen": 157,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 949,
+      "action": 4,
+      "x_pos": 3106,
+      "x_pos_screen": 157,
+      "y_pos": 122,
+      "flag_get": false
+    },
+    {
+      "step": 950,
+      "action": 0,
+      "x_pos": 3109,
+      "x_pos_screen": 157,
+      "y_pos": 130,
+      "flag_get": false
+    },
+    {
+      "step": 951,
+      "action": 0,
+      "x_pos": 3113,
+      "x_pos_screen": 157,
+      "y_pos": 129,
+      "flag_get": false
+    },
+    {
+      "step": 952,
+      "action": 0,
+      "x_pos": 3117,
+      "x_pos_screen": 157,
+      "y_pos": 117,
+      "flag_get": false
+    },
+    {
+      "step": 953,
+      "action": 0,
+      "x_pos": 3121,
+      "x_pos_screen": 157,
+      "y_pos": 97,
+      "flag_get": false
+    },
+    {
+      "step": 954,
+      "action": 0,
+      "x_pos": 3124,
+      "x_pos_screen": 157,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 955,
+      "action": 0,
+      "x_pos": 3128,
+      "x_pos_screen": 157,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 956,
+      "action": 0,
+      "x_pos": 3130,
+      "x_pos_screen": 157,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 957,
+      "action": 0,
+      "x_pos": 3131,
+      "x_pos_screen": 157,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 958,
+      "action": 0,
+      "x_pos": 3131,
+      "x_pos_screen": 157,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 959,
+      "action": 0,
+      "x_pos": 3131,
+      "x_pos_screen": 157,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 960,
+      "action": 0,
+      "x_pos": 3131,
+      "x_pos_screen": 157,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 961,
+      "action": 0,
+      "x_pos": 3131,
+      "x_pos_screen": 157,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 962,
+      "action": 0,
+      "x_pos": 3131,
+      "x_pos_screen": 157,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 963,
+      "action": 0,
+      "x_pos": 3131,
+      "x_pos_screen": 157,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 964,
+      "action": 2,
+      "x_pos": 3131,
+      "x_pos_screen": 157,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 965,
+      "action": 0,
+      "x_pos": 3132,
+      "x_pos_screen": 157,
+      "y_pos": 108,
+      "flag_get": false
+    },
+    {
+      "step": 966,
+      "action": 0,
+      "x_pos": 3133,
+      "x_pos_screen": 157,
+      "y_pos": 112,
+      "flag_get": false
+    },
+    {
+      "step": 967,
+      "action": 0,
+      "x_pos": 3134,
+      "x_pos_screen": 157,
+      "y_pos": 106,
+      "flag_get": false
+    },
+    {
+      "step": 968,
+      "action": 0,
+      "x_pos": 3135,
+      "x_pos_screen": 157,
+      "y_pos": 89,
+      "flag_get": false
+    },
+    {
+      "step": 969,
+      "action": 0,
+      "x_pos": 3136,
+      "x_pos_screen": 157,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 970,
+      "action": 0,
+      "x_pos": 3136,
+      "x_pos_screen": 157,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 971,
+      "action": 0,
+      "x_pos": 3136,
+      "x_pos_screen": 157,
+      "y_pos": 79,
+      "flag_get": false
+    },
+    {
+      "step": 972,
+      "action": 4,
+      "x_pos": 3137,
+      "x_pos_screen": 157,
+      "y_pos": 93,
+      "flag_get": false
+    },
+    {
+      "step": 973,
+      "action": 4,
+      "x_pos": 3138,
+      "x_pos_screen": 157,
+      "y_pos": 109,
+      "flag_get": false
+    },
+    {
+      "step": 974,
+      "action": 4,
+      "x_pos": 3140,
+      "x_pos_screen": 157,
+      "y_pos": 122,
+      "flag_get": false
+    },
+    {
+      "step": 975,
+      "action": 0,
+      "x_pos": 3143,
+      "x_pos_screen": 157,
+      "y_pos": 130,
+      "flag_get": false
+    },
+    {
+      "step": 976,
+      "action": 4,
+      "x_pos": 3147,
+      "x_pos_screen": 157,
+      "y_pos": 129,
+      "flag_get": false
+    },
+    {
+      "step": 977,
+      "action": 4,
+      "x_pos": 3151,
+      "x_pos_screen": 157,
+      "y_pos": 117,
+      "flag_get": false
+    },
+    {
+      "step": 978,
+      "action": 0,
+      "x_pos": 3156,
+      "x_pos_screen": 157,
+      "y_pos": 97,
+      "flag_get": false
+    },
+    {
+      "step": 979,
+      "action": 0,
+      "x_pos": 3161,
+      "x_pos_screen": 159,
+      "y_pos": 95,
+      "flag_get": true
+    }
+  ]
+}
