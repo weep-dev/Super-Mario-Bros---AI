@@ -209,7 +209,7 @@ Abra `Super Mario Reinforcement Learning.ipynb` no Jupyter Notebook ou VS Code e
 
 Projeto acadêmico desenvolvido para a disciplina de **Inteligência Artificial**.
 
-**Autor:** William Pereira de Almeida
+**Equipe:** Amanda da Silva, Geraldez de Medeiros e William Pereira de Almeida
 
 ---
 
